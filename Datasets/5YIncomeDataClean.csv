@@ -1801,7 +1801,7 @@ id,Estimate,MarginOfError,CTYNAME,STNAME
 0500000US35007,5853,262,Colfax County, New Mexico
 0500000US35009,18548,365,Curry County, New Mexico
 0500000US35011,672,95,De Baca County, New Mexico
-0500000US35013,77842,932,Doña Ana County, New Mexico
+0500000US35013,77842,932,DoÃ±a Ana County, New Mexico
 0500000US35015,21251,396,Eddy County, New Mexico
 0500000US35017,11851,384,Grant County, New Mexico
 0500000US35019,1384,201,Guadalupe County, New Mexico
@@ -3146,30 +3146,30 @@ id,Estimate,MarginOfError,CTYNAME,STNAME
 0500000US72005,21635,524,Aguadilla Municipio, Puerto Rico
 0500000US72007,8488,319,Aguas Buenas Municipio, Puerto Rico
 0500000US72009,8592,286,Aibonito Municipio, Puerto Rico
-0500000US72011,8848,383,Añasco Municipio, Puerto Rico
+0500000US72011,8848,383,AÃ±asco Municipio, Puerto Rico
 0500000US72013,31910,668,Arecibo Municipio, Puerto Rico
 0500000US72015,5908,321,Arroyo Municipio, Puerto Rico
 0500000US72017,7989,322,Barceloneta Municipio, Puerto Rico
 0500000US72019,8720,334,Barranquitas Municipio, Puerto Rico
-0500000US72021,67476,812,Bayamón Municipio, Puerto Rico
+0500000US72021,67476,812,BayamÃ³n Municipio, Puerto Rico
 0500000US72023,15473,618,Cabo Rojo Municipio, Puerto Rico
 0500000US72025,48184,579,Caguas Municipio, Puerto Rico
 0500000US72027,11394,370,Camuy Municipio, Puerto Rico
-0500000US72029,14643,383,Canóvanas Municipio, Puerto Rico
+0500000US72029,14643,383,CanÃ³vanas Municipio, Puerto Rico
 0500000US72031,61909,915,Carolina Municipio, Puerto Rico
-0500000US72033,8706,299,Cataño Municipio, Puerto Rico
+0500000US72033,8706,299,CataÃ±o Municipio, Puerto Rico
 0500000US72035,16213,416,Cayey Municipio, Puerto Rico
 0500000US72037,4224,254,Ceiba Municipio, Puerto Rico
 0500000US72039,5831,228,Ciales Municipio, Puerto Rico
 0500000US72041,12942,346,Cidra Municipio, Puerto Rico
 0500000US72043,13104,371,Coamo Municipio, Puerto Rico
-0500000US72045,5565,275,Comerío Municipio, Puerto Rico
+0500000US72045,5565,275,ComerÃ­o Municipio, Puerto Rico
 0500000US72047,10535,422,Corozal Municipio, Puerto Rico
 0500000US72049,482,72,Culebra Municipio, Puerto Rico
 0500000US72051,11602,425,Dorado Municipio, Puerto Rico
 0500000US72053,12298,369,Fajardo Municipio, Puerto Rico
 0500000US72054,4271,235,Florida Municipio, Puerto Rico
-0500000US72055,5515,289,Guánica Municipio, Puerto Rico
+0500000US72055,5515,289,GuÃ¡nica Municipio, Puerto Rico
 0500000US72057,14022,480,Guayama Municipio, Puerto Rico
 0500000US72059,6510,253,Guayanilla Municipio, Puerto Rico
 0500000US72061,30758,587,Guaynabo Municipio, Puerto Rico
@@ -3179,35 +3179,35 @@ id,Estimate,MarginOfError,CTYNAME,STNAME
 0500000US72069,17615,501,Humacao Municipio, Puerto Rico
 0500000US72071,14670,542,Isabela Municipio, Puerto Rico
 0500000US72073,4837,268,Jayuya Municipio, Puerto Rico
-0500000US72075,15408,378,Juana Dí­az Municipio, Puerto Rico
+0500000US72075,15408,378,Juana DÃ­Â­az Municipio, Puerto Rico
 0500000US72077,12558,445,Juncos Municipio, Puerto Rico
 0500000US72079,7665,414,Lajas Municipio, Puerto Rico
 0500000US72081,9967,324,Lares Municipio, Puerto Rico
-0500000US72083,2708,218,Las Marías Municipio, Puerto Rico
+0500000US72083,2708,218,Las MarÃ­as Municipio, Puerto Rico
 0500000US72085,12376,399,Las Piedras Municipio, Puerto Rico
-0500000US72087,8508,286,Loíza Municipio, Puerto Rico
+0500000US72087,8508,286,LoÃ­za Municipio, Puerto Rico
 0500000US72089,6582,259,Luquillo Municipio, Puerto Rico
-0500000US72091,14825,455,Manatí Municipio, Puerto Rico
+0500000US72091,14825,455,ManatÃ­ Municipio, Puerto Rico
 0500000US72093,1846,158,Maricao Municipio, Puerto Rico
 0500000US72095,3833,216,Maunabo Municipio, Puerto Rico
-0500000US72097,29682,681,Mayagüez Municipio, Puerto Rico
+0500000US72097,29682,681,MayagÃ¼ez Municipio, Puerto Rico
 0500000US72099,13374,384,Moca Municipio, Puerto Rico
 0500000US72101,9645,326,Morovis Municipio, Puerto Rico
 0500000US72103,8058,446,Naguabo Municipio, Puerto Rico
 0500000US72105,8424,357,Naranjito Municipio, Puerto Rico
 0500000US72107,6759,231,Orocovis Municipio, Puerto Rico
 0500000US72109,6144,304,Patillas Municipio, Puerto Rico
-0500000US72111,6863,284,Peñuelas Municipio, Puerto Rico
+0500000US72111,6863,284,PeÃ±uelas Municipio, Puerto Rico
 0500000US72113,52042,709,Ponce Municipio, Puerto Rico
 0500000US72115,8083,328,Quebradillas Municipio, Puerto Rico
-0500000US72117,5018,322,Rincón Municipio, Puerto Rico
-0500000US72119,15635,463,Río Grande Municipio, Puerto Rico
+0500000US72117,5018,322,RincÃ³n Municipio, Puerto Rico
+0500000US72119,15635,463,RÃ­o Grande Municipio, Puerto Rico
 0500000US72121,7061,299,Sabana Grande Municipio, Puerto Rico
 0500000US72123,10036,398,Salinas Municipio, Puerto Rico
-0500000US72125,11722,391,San Germán Municipio, Puerto Rico
+0500000US72125,11722,391,San GermÃ¡n Municipio, Puerto Rico
 0500000US72127,142699,1447,San Juan Municipio, Puerto Rico
 0500000US72129,13772,381,San Lorenzo Municipio, Puerto Rico
-0500000US72131,13313,410,San Sebastián Municipio, Puerto Rico
+0500000US72131,13313,410,San SebastiÃ¡n Municipio, Puerto Rico
 0500000US72133,7367,380,Santa Isabel Municipio, Puerto Rico
 0500000US72135,22138,482,Toa Alta Municipio, Puerto Rico
 0500000US72137,27400,488,Toa Baja Municipio, Puerto Rico
