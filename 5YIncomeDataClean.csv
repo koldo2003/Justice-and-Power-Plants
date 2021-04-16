@@ -1,0 +1,3221 @@
+id,Estimate,MarginOfError,CTYNAME,STNAME
+0500000US01001,21397,325,Autauga County, Alabama
+0500000US01003,80930,1127,Baldwin County, Alabama
+0500000US01005,9345,313,Barbour County, Alabama
+0500000US01007,6891,333,Bibb County, Alabama
+0500000US01009,20847,394,Blount County, Alabama
+0500000US01011,3521,255,Bullock County, Alabama
+0500000US01013,6506,290,Butler County, Alabama
+0500000US01015,44605,644,Calhoun County, Alabama
+0500000US01017,13448,405,Chambers County, Alabama
+0500000US01019,10737,445,Cherokee County, Alabama
+0500000US01021,16927,473,Chilton County, Alabama
+0500000US01023,5300,267,Choctaw County, Alabama
+0500000US01025,9090,350,Clarke County, Alabama
+0500000US01027,5198,240,Clay County, Alabama
+0500000US01029,5680,199,Cleburne County, Alabama
+0500000US01031,19924,343,Coffee County, Alabama
+0500000US01033,21880,440,Colbert County, Alabama
+0500000US01035,4553,274,Conecuh County, Alabama
+0500000US01037,4032,248,Coosa County, Alabama
+0500000US01039,14852,376,Covington County, Alabama
+0500000US01041,4943,207,Crenshaw County, Alabama
+0500000US01043,31034,570,Cullman County, Alabama
+0500000US01045,18806,470,Dale County, Alabama
+0500000US01047,15910,419,Dallas County, Alabama
+0500000US01049,26040,620,DeKalb County, Alabama
+0500000US01051,29708,497,Elmore County, Alabama
+0500000US01053,13089,449,Escambia County, Alabama
+0500000US01055,38942,643,Etowah County, Alabama
+0500000US01057,6802,239,Fayette County, Alabama
+0500000US01059,11048,339,Franklin County, Alabama
+0500000US01061,10383,331,Geneva County, Alabama
+0500000US01063,2951,246,Greene County, Alabama
+0500000US01065,5650,231,Hale County, Alabama
+0500000US01067,6630,236,Henry County, Alabama
+0500000US01069,39311,452,Houston County, Alabama
+0500000US01071,20695,494,Jackson County, Alabama
+0500000US01073,261231,1769,Jefferson County, Alabama
+0500000US01075,5856,268,Lamar County, Alabama
+0500000US01077,38471,588,Lauderdale County, Alabama
+0500000US01079,12677,322,Lawrence County, Alabama
+0500000US01081,60237,864,Lee County, Alabama
+0500000US01083,32143,509,Limestone County, Alabama
+0500000US01085,4251,145,Lowndes County, Alabama
+0500000US01087,7474,264,Macon County, Alabama
+0500000US01089,148189,1035,Madison County, Alabama
+0500000US01091,7361,331,Marengo County, Alabama
+0500000US01093,11997,363,Marion County, Alabama
+0500000US01095,34883,428,Marshall County, Alabama
+0500000US01097,156251,1081,Mobile County, Alabama
+0500000US01099,8166,294,Monroe County, Alabama
+0500000US01101,89527,878,Montgomery County, Alabama
+0500000US01103,45918,654,Morgan County, Alabama
+0500000US01105,3070,314,Perry County, Alabama
+0500000US01107,7637,279,Pickens County, Alabama
+0500000US01109,11601,426,Pike County, Alabama
+0500000US01111,8702,372,Randolph County, Alabama
+0500000US01113,23262,550,Russell County, Alabama
+0500000US01115,32036,656,St. Clair County, Alabama
+0500000US01117,79630,658,Shelby County, Alabama
+0500000US01119,5202,282,Sumter County, Alabama
+0500000US01121,31395,608,Talladega County, Alabama
+0500000US01123,16205,445,Tallapoosa County, Alabama
+0500000US01125,72461,906,Tuscaloosa County, Alabama
+0500000US01127,25019,544,Walker County, Alabama
+0500000US01129,5990,281,Washington County, Alabama
+0500000US01131,3854,213,Wilcox County, Alabama
+0500000US01133,9592,305,Winston County, Alabama
+0500000US02013,890,125,Aleutians East Borough, Alaska
+0500000US02016,1187,143,Aleutians West Census Area, Alaska
+0500000US02020,106567,1023,Anchorage Municipality, Alaska
+0500000US02050,4489,158,Bethel Census Area, Alaska
+0500000US02060,314,37,Bristol Bay Borough, Alaska
+0500000US02068,613,231,Denali Borough, Alaska
+0500000US02070,1427,74,Dillingham Census Area, Alaska
+0500000US02090,36188,796,Fairbanks North Star Borough, Alaska
+0500000US02100,1007,99,Haines Borough, Alaska
+0500000US02105,791,70,Hoonah-Angoon Census Area, Alaska
+0500000US02110,12676,259,Juneau City and Borough, Alaska
+0500000US02122,21630,455,Kenai Peninsula Borough, Alaska
+0500000US02130,5397,125,Ketchikan Gateway Borough, Alaska
+0500000US02150,4261,199,Kodiak Island Borough, Alaska
+0500000US02158,1724,71,Kusilvak Census Area, Alaska
+0500000US02164,421,127,Lake and Peninsula Borough, Alaska
+0500000US02170,31217,352,Matanuska-Susitna Borough, Alaska
+0500000US02180,2844,138,Nome Census Area, Alaska
+0500000US02185,1979,131,North Slope Borough, Alaska
+0500000US02188,1795,62,Northwest Arctic Borough, Alaska
+0500000US02195,1187,116,Petersburg Borough, Alaska
+0500000US02198,2371,86,Prince of Wales-Hyder Census Area, Alaska
+0500000US02220,3547,117,Sitka City and Borough, Alaska
+0500000US02230,375,40,Skagway Municipality, Alaska
+0500000US02240,2170,120,Southeast Fairbanks Census Area, Alaska
+0500000US02261,3177,166,Valdez-Cordova Census Area, Alaska
+0500000US02275,1027,68,Wrangell City and Borough, Alaska
+0500000US02282,219,26,Yakutat City and Borough, Alaska
+0500000US02290,1856,84,Yukon-Koyukuk Census Area, Alaska
+0500000US04001,20867,391,Apache County, Arizona
+0500000US04003,50163,919,Cochise County, Arizona
+0500000US04005,47447,904,Coconino County, Arizona
+0500000US04007,21945,614,Gila County, Arizona
+0500000US04009,11017,366,Graham County, Arizona
+0500000US04011,3132,169,Greenlee County, Arizona
+0500000US04012,9346,469,La Paz County, Arizona
+0500000US04013,1552096,5014,Maricopa County, Arizona
+0500000US04015,86889,1144,Mohave County, Arizona
+0500000US04017,34990,729,Navajo County, Arizona
+0500000US04019,404739,1896,Pima County, Arizona
+0500000US04021,141300,1546,Pinal County, Arizona
+0500000US04023,15853,374,Santa Cruz County, Arizona
+0500000US04025,98386,1046,Yavapai County, Arizona
+0500000US04027,73098,865,Yuma County, Arizona
+0500000US05001,7491,297,Arkansas County, Arkansas
+0500000US05003,7757,261,Ashley County, Arkansas
+0500000US05005,18435,481,Baxter County, Arkansas
+0500000US05007,97249,782,Benton County, Arkansas
+0500000US05009,15034,360,Boone County, Arkansas
+0500000US05011,4419,161,Bradley County, Arkansas
+0500000US05013,1850,139,Calhoun County, Arkansas
+0500000US05015,11139,440,Carroll County, Arkansas
+0500000US05017,4068,208,Chicot County, Arkansas
+0500000US05019,8446,359,Clark County, Arkansas
+0500000US05021,6444,176,Clay County, Arkansas
+0500000US05023,10783,262,Cleburne County, Arkansas
+0500000US05025,3217,174,Cleveland County, Arkansas
+0500000US05027,8562,381,Columbia County, Arkansas
+0500000US05029,8309,299,Conway County, Arkansas
+0500000US05031,41375,573,Craighead County, Arkansas
+0500000US05033,23958,478,Crawford County, Arkansas
+0500000US05035,19074,278,Crittenden County, Arkansas
+0500000US05037,6653,224,Cross County, Arkansas
+0500000US05039,2969,219,Dallas County, Arkansas
+0500000US05041,5204,210,Desha County, Arkansas
+0500000US05043,7157,282,Drew County, Arkansas
+0500000US05045,44575,692,Faulkner County, Arkansas
+0500000US05047,6723,278,Franklin County, Arkansas
+0500000US05049,4973,227,Fulton County, Arkansas
+0500000US05051,40209,722,Garland County, Arkansas
+0500000US05053,6863,246,Grant County, Arkansas
+0500000US05055,17254,302,Greene County, Arkansas
+0500000US05057,8094,366,Hempstead County, Arkansas
+0500000US05059,12599,361,Hot Spring County, Arkansas
+0500000US05061,5142,225,Howard County, Arkansas
+0500000US05063,14322,341,Independence County, Arkansas
+0500000US05065,4851,263,Izard County, Arkansas
+0500000US05067,6137,244,Jackson County, Arkansas
+0500000US05069,26801,616,Jefferson County, Arkansas
+0500000US05071,9682,257,Johnson County, Arkansas
+0500000US05073,2784,166,Lafayette County, Arkansas
+0500000US05075,6463,210,Lawrence County, Arkansas
+0500000US05077,3206,195,Lee County, Arkansas
+0500000US05079,3773,355,Lincoln County, Arkansas
+0500000US05081,5363,221,Little River County, Arkansas
+0500000US05083,8417,289,Logan County, Arkansas
+0500000US05085,26895,453,Lonoke County, Arkansas
+0500000US05087,6279,219,Madison County, Arkansas
+0500000US05089,6782,306,Marion County, Arkansas
+0500000US05091,16426,345,Miller County, Arkansas
+0500000US05093,16389,459,Mississippi County, Arkansas
+0500000US05095,3333,162,Monroe County, Arkansas
+0500000US05097,3754,218,Montgomery County, Arkansas
+0500000US05099,3397,255,Nevada County, Arkansas
+0500000US05101,2936,198,Newton County, Arkansas
+0500000US05103,9658,314,Ouachita County, Arkansas
+0500000US05105,3668,200,Perry County, Arkansas
+0500000US05107,7485,342,Phillips County, Arkansas
+0500000US05109,4280,158,Pike County, Arkansas
+0500000US05111,9526,238,Poinsett County, Arkansas
+0500000US05113,8243,255,Polk County, Arkansas
+0500000US05115,22579,511,Pope County, Arkansas
+0500000US05117,3776,169,Prairie County, Arkansas
+0500000US05119,158051,1372,Pulaski County, Arkansas
+0500000US05121,7355,275,Randolph County, Arkansas
+0500000US05123,9388,363,St. Francis County, Arkansas
+0500000US05125,44075,632,Saline County, Arkansas
+0500000US05127,3944,201,Scott County, Arkansas
+0500000US05129,3327,178,Searcy County, Arkansas
+0500000US05131,51228,611,Sebastian County, Arkansas
+0500000US05133,5885,202,Sevier County, Arkansas
+0500000US05135,7447,303,Sharp County, Arkansas
+0500000US05137,4787,258,Stone County, Arkansas
+0500000US05139,15726,471,Union County, Arkansas
+0500000US05141,6813,254,Van Buren County, Arkansas
+0500000US05143,87325,772,Washington County, Arkansas
+0500000US05145,29055,547,White County, Arkansas
+0500000US05147,2932,181,Woodruff County, Arkansas
+0500000US05149,7503,259,Yell County, Arkansas
+0500000US06001,577177,1744,Alameda County, California
+0500000US06003,350,69,Alpine County, California
+0500000US06005,14594,448,Amador County, California
+0500000US06007,85320,891,Butte County, California
+0500000US06009,16942,552,Calaveras County, California
+0500000US06011,7227,159,Colusa County, California
+0500000US06013,394769,1262,Contra Costa County, California
+0500000US06015,9945,282,Del Norte County, California
+0500000US06017,70974,770,El Dorado County, California
+0500000US06019,307906,1137,Fresno County, California
+0500000US06021,10085,209,Glenn County, California
+0500000US06023,54679,795,Humboldt County, California
+0500000US06025,44829,876,Imperial County, California
+0500000US06027,7950,252,Inyo County, California
+0500000US06029,270282,1291,Kern County, California
+0500000US06031,43452,495,Kings County, California
+0500000US06033,25660,710,Lake County, California
+0500000US06035,9280,371,Lassen County, California
+0500000US06037,3316795,5782,Los Angeles County, California
+0500000US06039,44881,590,Madera County, California
+0500000US06041,105432,883,Marin County, California
+0500000US06043,7643,346,Mariposa County, California
+0500000US06045,34408,643,Mendocino County, California
+0500000US06047,80008,727,Merced County, California
+0500000US06049,3616,232,Modoc County, California
+0500000US06051,4765,377,Mono County, California
+0500000US06053,127155,979,Monterey County, California
+0500000US06055,48705,496,Napa County, California
+0500000US06057,40855,701,Nevada County, California
+0500000US06059,1037492,2280,Orange County, California
+0500000US06061,142855,835,Placer County, California
+0500000US06063,8450,343,Plumas County, California
+0500000US06065,724893,2905,Riverside County, California
+0500000US06067,543025,1581,Sacramento County, California
+0500000US06069,18135,195,San Benito County, California
+0500000US06071,636041,2447,San Bernardino County, California
+0500000US06073,1125286,3400,San Diego County, California
+0500000US06075,362354,1777,San Francisco County, California
+0500000US06077,228567,1049,San Joaquin County, California
+0500000US06079,105981,939,San Luis Obispo County, California
+0500000US06081,263543,1093,San Mateo County, California
+0500000US06083,145856,881,Santa Barbara County, California
+0500000US06085,640215,1602,Santa Clara County, California
+0500000US06087,95818,913,Santa Cruz County, California
+0500000US06089,71181,714,Shasta County, California
+0500000US06091,1319,142,Sierra County, California
+0500000US06093,19240,358,Siskiyou County, California
+0500000US06095,149865,816,Solano County, California
+0500000US06097,189374,1128,Sonoma County, California
+0500000US06099,173898,690,Stanislaus County, California
+0500000US06101,32636,318,Sutter County, California
+0500000US06103,24189,400,Tehama County, California
+0500000US06105,5939,251,Trinity County, California
+0500000US06107,138238,720,Tulare County, California
+0500000US06109,22502,543,Tuolumne County, California
+0500000US06111,271040,1203,Ventura County, California
+0500000US06113,74296,472,Yolo County, California
+0500000US06115,26354,402,Yuba County, California
+0500000US08001,166450,777,Adams County, Colorado
+0500000US08003,6162,265,Alamosa County, Colorado
+0500000US08005,240304,952,Arapahoe County, Colorado
+0500000US08007,5858,299,Archuleta County, Colorado
+0500000US08009,1662,89,Baca County, Colorado
+0500000US08011,1767,146,Bent County, Colorado
+0500000US08013,127415,822,Boulder County, Colorado
+0500000US08014,27470,231,Broomfield County, Colorado
+0500000US08015,8231,391,Chaffee County, Colorado
+0500000US08017,774,83,Cheyenne County, Colorado
+0500000US08019,4395,224,Clear Creek County, Colorado
+0500000US08021,3183,130,Conejos County, Colorado
+0500000US08023,1746,145,Costilla County, Colorado
+0500000US08025,1301,92,Crowley County, Colorado
+0500000US08027,2214,150,Custer County, Colorado
+0500000US08029,11883,283,Delta County, Colorado
+0500000US08031,301501,1495,Denver County, Colorado
+0500000US08033,759,86,Dolores County, Colorado
+0500000US08035,120709,570,Douglas County, Colorado
+0500000US08037,18171,501,Eagle County, Colorado
+0500000US08039,9280,111,Elbert County, Colorado
+0500000US08041,257507,1025,El Paso County, Colorado
+0500000US08043,17136,572,Fremont County, Colorado
+0500000US08045,21498,372,Garfield County, Colorado
+0500000US08047,2802,208,Gilpin County, Colorado
+0500000US08049,5884,435,Grand County, Colorado
+0500000US08051,6616,333,Gunnison County, Colorado
+0500000US08053,377,53,Hinsdale County, Colorado
+0500000US08055,3225,190,Huerfano County, Colorado
+0500000US08057,558,66,Jackson County, Colorado
+0500000US08059,232284,760,Jefferson County, Colorado
+0500000US08061,638,61,Kiowa County, Colorado
+0500000US08063,3004,241,Kit Carson County, Colorado
+0500000US08065,3392,249,Lake County, Colorado
+0500000US08067,21794,485,La Plata County, Colorado
+0500000US08069,137021,837,Larimer County, Colorado
+0500000US08071,6670,254,Las Animas County, Colorado
+0500000US08073,1518,553,Lincoln County, Colorado
+0500000US08075,8393,210,Logan County, Colorado
+0500000US08077,61742,552,Mesa County, Colorado
+0500000US08079,367,46,Mineral County, Colorado
+0500000US08081,5366,191,Moffat County, Colorado
+0500000US08083,10655,268,Montezuma County, Colorado
+0500000US08085,17140,353,Montrose County, Colorado
+0500000US08087,10928,187,Morgan County, Colorado
+0500000US08089,7722,227,Otero County, Colorado
+0500000US08091,2163,123,Ouray County, Colorado
+0500000US08093,6931,348,Park County, Colorado
+0500000US08095,1689,109,Phillips County, Colorado
+0500000US08097,7467,392,Pitkin County, Colorado
+0500000US08099,4888,202,Prowers County, Colorado
+0500000US08101,64314,657,Pueblo County, Colorado
+0500000US08103,2301,166,Rio Blanco County, Colorado
+0500000US08105,4823,249,Rio Grande County, Colorado
+0500000US08107,9603,428,Routt County, Colorado
+0500000US08109,2860,146,Saguache County, Colorado
+0500000US08111,289,52,San Juan County, Colorado
+0500000US08113,3552,176,San Miguel County, Colorado
+0500000US08115,967,70,Sedgwick County, Colorado
+0500000US08117,10641,619,Summit County, Colorado
+0500000US08119,10248,370,Teller County, Colorado
+0500000US08121,2087,217,Washington County, Colorado
+0500000US08123,104671,536,Weld County, Colorado
+0500000US08125,4028,134,Yuma County, Colorado
+0500000US09001,340189,1594,Fairfield County, Connecticut
+0500000US09003,350408,1530,Hartford County, Connecticut
+0500000US09005,74143,772,Litchfield County, Connecticut
+0500000US09007,66971,714,Middlesex County, Connecticut
+0500000US09009,330572,1635,New Haven County, Connecticut
+0500000US09011,107827,910,New London County, Connecticut
+0500000US09013,55683,583,Tolland County, Connecticut
+0500000US09015,44953,550,Windham County, Connecticut
+0500000US10001,65796,777,Kent County, Delaware
+0500000US10003,205829,1084,New Castle County, Delaware
+0500000US10005,91697,1049,Sussex County, Delaware
+0500000US11001,284386,1503,District of Columbia, District of Columbia
+0500000US12001,97995,1181,Alachua County, Florida
+0500000US12003,8693,376,Baker County, Florida
+0500000US12005,71422,983,Bay County, Florida
+0500000US12007,9115,369,Bradford County, Florida
+0500000US12009,230417,1832,Brevard County, Florida
+0500000US12011,690050,3090,Broward County, Florida
+0500000US12013,4501,293,Calhoun County, Florida
+0500000US12015,76891,1111,Charlotte County, Florida
+0500000US12017,63681,1033,Citrus County, Florida
+0500000US12019,74333,740,Clay County, Florida
+0500000US12021,142979,1722,Collier County, Florida
+0500000US12023,25133,460,Columbia County, Florida
+0500000US12027,12072,563,DeSoto County, Florida
+0500000US12029,6504,297,Dixie County, Florida
+0500000US12031,359544,1804,Duval County, Florida
+0500000US12033,120104,1455,Escambia County, Florida
+0500000US12035,42121,688,Flagler County, Florida
+0500000US12037,4444,269,Franklin County, Florida
+0500000US12039,17149,595,Gadsden County, Florida
+0500000US12041,6464,238,Gilchrist County, Florida
+0500000US12043,4700,353,Glades County, Florida
+0500000US12045,5757,295,Gulf County, Florida
+0500000US12047,4381,314,Hamilton County, Florida
+0500000US12049,7863,332,Hardee County, Florida
+0500000US12051,12527,398,Hendry County, Florida
+0500000US12053,75348,892,Hernando County, Florida
+0500000US12055,41740,785,Highlands County, Florida
+0500000US12057,526175,2443,Hillsborough County, Florida
+0500000US12059,7092,273,Holmes County, Florida
+0500000US12061,58612,1185,Indian River County, Florida
+0500000US12063,17149,482,Jackson County, Florida
+0500000US12065,5770,228,Jefferson County, Florida
+0500000US12067,2175,253,Lafayette County, Florida
+0500000US12069,134317,1493,Lake County, Florida
+0500000US12071,275965,2267,Lee County, Florida
+0500000US12073,113658,1194,Leon County, Florida
+0500000US12075,16374,378,Levy County, Florida
+0500000US12077,2459,206,Liberty County, Florida
+0500000US12079,6778,272,Madison County, Florida
+0500000US12081,145356,1743,Manatee County, Florida
+0500000US12083,139172,1427,Marion County, Florida
+0500000US12085,64528,856,Martin County, Florida
+0500000US12086,883372,3293,Miami-Dade County, Florida
+0500000US12087,32068,810,Monroe County, Florida
+0500000US12089,32603,521,Nassau County, Florida
+0500000US12091,77962,805,Okaloosa County, Florida
+0500000US12093,13904,485,Okeechobee County, Florida
+0500000US12095,461705,2681,Orange County, Florida
+0500000US12097,103141,1706,Osceola County, Florida
+0500000US12099,554095,2524,Palm Beach County, Florida
+0500000US12101,204198,1451,Pasco County, Florida
+0500000US12103,407546,2702,Pinellas County, Florida
+0500000US12105,235283,2097,Polk County, Florida
+0500000US12107,28943,634,Putnam County, Florida
+0500000US12109,88773,1163,St. Johns County, Florida
+0500000US12111,114761,1436,St. Lucie County, Florida
+0500000US12113,63514,733,Santa Rosa County, Florida
+0500000US12115,182842,1692,Sarasota County, Florida
+0500000US12117,173668,1171,Seminole County, Florida
+0500000US12119,56230,1330,Sumter County, Florida
+0500000US12121,14888,553,Suwannee County, Florida
+0500000US12123,7405,414,Taylor County, Florida
+0500000US12125,3960,341,Union County, Florida
+0500000US12127,216495,1507,Volusia County, Florida
+0500000US12129,11200,357,Wakulla County, Florida
+0500000US12131,27420,930,Walton County, Florida
+0500000US12133,8827,332,Washington County, Florida
+0500000US13001,6656,322,Appling County, Georgia
+0500000US13003,2880,123,Atkinson County, Georgia
+0500000US13005,3874,191,Bacon County, Georgia
+0500000US13007,1425,137,Baker County, Georgia
+0500000US13009,16191,573,Baldwin County, Georgia
+0500000US13011,6740,231,Banks County, Georgia
+0500000US13013,26305,373,Barrow County, Georgia
+0500000US13015,37627,570,Bartow County, Georgia
+0500000US13017,6443,331,Ben Hill County, Georgia
+0500000US13019,7367,240,Berrien County, Georgia
+0500000US13021,58116,665,Bibb County, Georgia
+0500000US13023,4176,214,Bleckley County, Georgia
+0500000US13025,6823,272,Brantley County, Georgia
+0500000US13027,6335,279,Brooks County, Georgia
+0500000US13029,13048,297,Bryan County, Georgia
+0500000US13031,27375,588,Bulloch County, Georgia
+0500000US13033,8193,257,Burke County, Georgia
+0500000US13035,8279,301,Butts County, Georgia
+0500000US13037,1736,148,Calhoun County, Georgia
+0500000US13039,19338,437,Camden County, Georgia
+0500000US13043,4013,187,Candler County, Georgia
+0500000US13045,41903,544,Carroll County, Georgia
+0500000US13047,24778,522,Catoosa County, Georgia
+0500000US13049,3675,220,Charlton County, Georgia
+0500000US13051,108568,887,Chatham County, Georgia
+0500000US13053,2570,201,Chattahoochee County, Georgia
+0500000US13055,9260,336,Chattooga County, Georgia
+0500000US13057,88137,762,Cherokee County, Georgia
+0500000US13059,48844,510,Clarke County, Georgia
+0500000US13061,1242,130,Clay County, Georgia
+0500000US13063,94279,807,Clayton County, Georgia
+0500000US13065,2477,103,Clinch County, Georgia
+0500000US13067,280374,1209,Cobb County, Georgia
+0500000US13069,14438,389,Coffee County, Georgia
+0500000US13071,15505,488,Colquitt County, Georgia
+0500000US13073,47215,1115,Columbia County, Georgia
+0500000US13075,6217,226,Cook County, Georgia
+0500000US13077,52035,515,Coweta County, Georgia
+0500000US13079,4510,187,Crawford County, Georgia
+0500000US13081,8585,380,Crisp County, Georgia
+0500000US13083,6195,250,Dade County, Georgia
+0500000US13085,9041,407,Dawson County, Georgia
+0500000US13087,10084,311,Decatur County, Georgia
+0500000US13089,282436,1525,DeKalb County, Georgia
+0500000US13091,7628,377,Dodge County, Georgia
+0500000US13093,5020,283,Dooly County, Georgia
+0500000US13095,34087,652,Dougherty County, Georgia
+0500000US13097,49187,666,Douglas County, Georgia
+0500000US13099,4074,148,Early County, Georgia
+0500000US13101,1561,132,Echols County, Georgia
+0500000US13103,21172,358,Effingham County, Georgia
+0500000US13105,7559,273,Elbert County, Georgia
+0500000US13107,8387,309,Emanuel County, Georgia
+0500000US13109,4020,169,Evans County, Georgia
+0500000US13111,10408,422,Fannin County, Georgia
+0500000US13113,40285,424,Fayette County, Georgia
+0500000US13115,35679,539,Floyd County, Georgia
+0500000US13117,76753,525,Forsyth County, Georgia
+0500000US13119,8460,295,Franklin County, Georgia
+0500000US13121,410576,2352,Fulton County, Georgia
+0500000US13123,12021,505,Gilmer County, Georgia
+0500000US13125,1108,89,Glascock County, Georgia
+0500000US13127,34119,604,Glynn County, Georgia
+0500000US13129,20561,379,Gordon County, Georgia
+0500000US13131,9136,263,Grady County, Georgia
+0500000US13133,7132,262,Greene County, Georgia
+0500000US13135,293330,1085,Gwinnett County, Georgia
+0500000US13137,15139,380,Habersham County, Georgia
+0500000US13139,64352,697,Hall County, Georgia
+0500000US13141,2974,403,Hancock County, Georgia
+0500000US13143,11259,289,Haralson County, Georgia
+0500000US13145,12156,323,Harris County, Georgia
+0500000US13147,9853,347,Hart County, Georgia
+0500000US13149,4502,190,Heard County, Georgia
+0500000US13151,75984,770,Henry County, Georgia
+0500000US13153,57056,763,Houston County, Georgia
+0500000US13155,3329,188,Irwin County, Georgia
+0500000US13157,23166,377,Jackson County, Georgia
+0500000US13159,5171,257,Jasper County, Georgia
+0500000US13161,5279,287,Jeff Davis County, Georgia
+0500000US13163,5664,254,Jefferson County, Georgia
+0500000US13165,3443,232,Jenkins County, Georgia
+0500000US13167,3393,330,Johnson County, Georgia
+0500000US13169,10701,295,Jones County, Georgia
+0500000US13171,6494,293,Lamar County, Georgia
+0500000US13173,3714,191,Lanier County, Georgia
+0500000US13175,17142,475,Laurens County, Georgia
+0500000US13177,10226,284,Lee County, Georgia
+0500000US13179,23485,485,Liberty County, Georgia
+0500000US13181,3475,198,Lincoln County, Georgia
+0500000US13183,5695,261,Long County, Georgia
+0500000US13185,41282,621,Lowndes County, Georgia
+0500000US13187,11570,404,Lumpkin County, Georgia
+0500000US13189,8153,276,McDuffie County, Georgia
+0500000US13191,6042,369,McIntosh County, Georgia
+0500000US13193,4696,214,Macon County, Georgia
+0500000US13195,10744,248,Madison County, Georgia
+0500000US13197,3408,188,Marion County, Georgia
+0500000US13199,8051,353,Meriwether County, Georgia
+0500000US13201,2333,125,Miller County, Georgia
+0500000US13205,7982,214,Mitchell County, Georgia
+0500000US13207,9760,324,Monroe County, Georgia
+0500000US13209,3097,136,Montgomery County, Georgia
+0500000US13211,6942,240,Morgan County, Georgia
+0500000US13213,14385,320,Murray County, Georgia
+0500000US13215,72759,869,Muscogee County, Georgia
+0500000US13217,37018,475,Newton County, Georgia
+0500000US13219,13423,274,Oconee County, Georgia
+0500000US13221,5651,229,Oglethorpe County, Georgia
+0500000US13223,53299,659,Paulding County, Georgia
+0500000US13225,10136,318,Peach County, Georgia
+0500000US13227,11868,433,Pickens County, Georgia
+0500000US13229,7048,263,Pierce County, Georgia
+0500000US13231,6143,175,Pike County, Georgia
+0500000US13233,15038,390,Polk County, Georgia
+0500000US13235,3687,376,Pulaski County, Georgia
+0500000US13237,8937,413,Putnam County, Georgia
+0500000US13239,842,95,Quitman County, Georgia
+0500000US13241,6662,262,Rabun County, Georgia
+0500000US13243,2553,231,Randolph County, Georgia
+0500000US13245,71400,1155,Richmond County, Georgia
+0500000US13247,31076,476,Rockdale County, Georgia
+0500000US13249,1864,103,Schley County, Georgia
+0500000US13251,5098,210,Screven County, Georgia
+0500000US13253,3363,202,Seminole County, Georgia
+0500000US13255,24336,527,Spalding County, Georgia
+0500000US13257,9543,428,Stephens County, Georgia
+0500000US13259,1816,156,Stewart County, Georgia
+0500000US13261,11510,367,Sumter County, Georgia
+0500000US13263,2809,110,Talbot County, Georgia
+0500000US13265,593,59,Taliaferro County, Georgia
+0500000US13267,8241,317,Tattnall County, Georgia
+0500000US13269,3473,197,Taylor County, Georgia
+0500000US13271,4668,335,Telfair County, Georgia
+0500000US13273,3399,172,Terrell County, Georgia
+0500000US13275,17595,430,Thomas County, Georgia
+0500000US13277,15144,369,Tift County, Georgia
+0500000US13279,10030,358,Toombs County, Georgia
+0500000US13281,4898,266,Towns County, Georgia
+0500000US13283,2490,199,Treutlen County, Georgia
+0500000US13285,24928,433,Troup County, Georgia
+0500000US13287,3169,200,Turner County, Georgia
+0500000US13289,3044,168,Twiggs County, Georgia
+0500000US13291,9743,375,Union County, Georgia
+0500000US13293,10154,309,Upson County, Georgia
+0500000US13295,25975,552,Walker County, Georgia
+0500000US13297,31670,420,Walton County, Georgia
+0500000US13299,13823,385,Ware County, Georgia
+0500000US13301,2244,140,Warren County, Georgia
+0500000US13303,7503,282,Washington County, Georgia
+0500000US13305,10400,362,Wayne County, Georgia
+0500000US13307,1140,106,Webster County, Georgia
+0500000US13309,1862,133,Wheeler County, Georgia
+0500000US13311,11695,481,White County, Georgia
+0500000US13313,35629,480,Whitfield County, Georgia
+0500000US13315,2575,135,Wilcox County, Georgia
+0500000US13317,3979,147,Wilkes County, Georgia
+0500000US13319,3185,150,Wilkinson County, Georgia
+0500000US13321,8002,235,Worth County, Georgia
+0500000US15001,69453,943,Hawaii County, Hawaii
+0500000US15003,312795,1538,Honolulu County, Hawaii
+0500000US15005,39,7,Kalawao County, Hawaii
+0500000US15007,22658,493,Kauai County, Hawaii
+0500000US15009,54479,673,Maui County, Hawaii
+0500000US16001,173353,1097,Ada County, Idaho
+0500000US16003,1757,98,Adams County, Idaho
+0500000US16005,31155,472,Bannock County, Idaho
+0500000US16007,2424,121,Bear Lake County, Idaho
+0500000US16009,3418,210,Benewah County, Idaho
+0500000US16011,14989,326,Bingham County, Idaho
+0500000US16013,7995,396,Blaine County, Idaho
+0500000US16015,3205,187,Boise County, Idaho
+0500000US16017,17537,455,Bonner County, Idaho
+0500000US16019,39768,463,Bonneville County, Idaho
+0500000US16021,4653,200,Boundary County, Idaho
+0500000US16023,967,102,Butte County, Idaho
+0500000US16025,394,55,Camas County, Idaho
+0500000US16027,72807,512,Canyon County, Idaho
+0500000US16029,2538,154,Caribou County, Idaho
+0500000US16031,7711,248,Cassia County, Idaho
+0500000US16033,290,59,Clark County, Idaho
+0500000US16035,3555,152,Clearwater County, Idaho
+0500000US16037,1774,144,Custer County, Idaho
+0500000US16039,10606,304,Elmore County, Idaho
+0500000US16041,4397,124,Franklin County, Idaho
+0500000US16043,4347,176,Fremont County, Idaho
+0500000US16045,6683,195,Gem County, Idaho
+0500000US16047,5469,210,Gooding County, Idaho
+0500000US16049,6407,249,Idaho County, Idaho
+0500000US16051,8791,242,Jefferson County, Idaho
+0500000US16053,8022,159,Jerome County, Idaho
+0500000US16055,62304,582,Kootenai County, Idaho
+0500000US16057,15422,341,Latah County, Idaho
+0500000US16059,3582,172,Lemhi County, Idaho
+0500000US16061,1646,48,Lewis County, Idaho
+0500000US16063,1724,82,Lincoln County, Idaho
+0500000US16065,11016,408,Madison County, Idaho
+0500000US16067,7250,262,Minidoka County, Idaho
+0500000US16069,16384,243,Nez Perce County, Idaho
+0500000US16071,1615,107,Oneida County, Idaho
+0500000US16073,4321,155,Owyhee County, Idaho
+0500000US16075,8876,178,Payette County, Idaho
+0500000US16077,2633,138,Power County, Idaho
+0500000US16079,5466,174,Shoshone County, Idaho
+0500000US16081,3707,289,Teton County, Idaho
+0500000US16083,31146,450,Twin Falls County, Idaho
+0500000US16085,3869,343,Valley County, Idaho
+0500000US16087,4035,175,Washington County, Idaho
+0500000US17001,27112,358,Adams County, Illinois
+0500000US17003,2154,161,Alexander County, Illinois
+0500000US17005,6299,360,Bond County, Illinois
+0500000US17007,18571,424,Boone County, Illinois
+0500000US17009,2055,162,Brown County, Illinois
+0500000US17011,13698,232,Bureau County, Illinois
+0500000US17013,1664,105,Calhoun County, Illinois
+0500000US17015,6508,192,Carroll County, Illinois
+0500000US17017,5043,156,Cass County, Illinois
+0500000US17019,82369,818,Champaign County, Illinois
+0500000US17021,13901,267,Christian County, Illinois
+0500000US17023,6720,213,Clark County, Illinois
+0500000US17025,5696,173,Clay County, Illinois
+0500000US17027,14353,245,Clinton County, Illinois
+0500000US17029,20926,491,Coles County, Illinois
+0500000US17031,1972108,4335,Cook County, Illinois
+0500000US17033,7666,305,Crawford County, Illinois
+0500000US17035,4299,136,Cumberland County, Illinois
+0500000US17037,38150,516,DeKalb County, Illinois
+0500000US17039,6694,203,De Witt County, Illinois
+0500000US17041,7613,153,Douglas County, Illinois
+0500000US17043,342791,1204,DuPage County, Illinois
+0500000US17045,7542,224,Edgar County, Illinois
+0500000US17047,2773,79,Edwards County, Illinois
+0500000US17049,13877,279,Effingham County, Illinois
+0500000US17051,7737,207,Fayette County, Illinois
+0500000US17053,5771,139,Ford County, Illinois
+0500000US17055,16235,323,Franklin County, Illinois
+0500000US17057,13940,284,Fulton County, Illinois
+0500000US17059,2293,97,Gallatin County, Illinois
+0500000US17061,4949,184,Greene County, Illinois
+0500000US17063,19676,295,Grundy County, Illinois
+0500000US17065,3400,192,Hamilton County, Illinois
+0500000US17067,7409,202,Hancock County, Illinois
+0500000US17069,1363,128,Hardin County, Illinois
+0500000US17071,2977,121,Henderson County, Illinois
+0500000US17073,19856,337,Henry County, Illinois
+0500000US17075,11741,214,Iroquois County, Illinois
+0500000US17077,23883,501,Jackson County, Illinois
+0500000US17079,3711,159,Jasper County, Illinois
+0500000US17081,14985,295,Jefferson County, Illinois
+0500000US17083,8499,289,Jersey County, Illinois
+0500000US17085,9970,238,Jo Daviess County, Illinois
+0500000US17087,4303,206,Johnson County, Illinois
+0500000US17089,179637,1012,Kane County, Illinois
+0500000US17091,39796,528,Kankakee County, Illinois
+0500000US17093,40721,427,Kendall County, Illinois
+0500000US17095,20680,375,Knox County, Illinois
+0500000US17097,246122,1089,Lake County, Illinois
+0500000US17099,45095,497,LaSalle County, Illinois
+0500000US17101,6306,183,Lawrence County, Illinois
+0500000US17103,13788,279,Lee County, Illinois
+0500000US17105,14307,291,Livingston County, Illinois
+0500000US17107,10797,230,Logan County, Illinois
+0500000US17109,11408,360,McDonough County, Illinois
+0500000US17111,112453,781,McHenry County, Illinois
+0500000US17113,65845,694,McLean County, Illinois
+0500000US17115,43912,530,Macon County, Illinois
+0500000US17117,18875,344,Macoupin County, Illinois
+0500000US17119,107659,1135,Madison County, Illinois
+0500000US17121,15946,257,Marion County, Illinois
+0500000US17123,4884,155,Marshall County, Illinois
+0500000US17125,5977,193,Mason County, Illinois
+0500000US17127,5822,211,Massac County, Illinois
+0500000US17129,5188,166,Menard County, Illinois
+0500000US17131,6516,162,Mercer County, Illinois
+0500000US17133,13586,196,Monroe County, Illinois
+0500000US17135,11522,467,Montgomery County, Illinois
+0500000US17137,13719,343,Morgan County, Illinois
+0500000US17139,5959,138,Moultrie County, Illinois
+0500000US17141,21021,275,Ogle County, Illinois
+0500000US17143,73253,831,Peoria County, Illinois
+0500000US17145,8433,251,Perry County, Illinois
+0500000US17147,6692,140,Piatt County, Illinois
+0500000US17149,6309,177,Pike County, Illinois
+0500000US17151,1694,135,Pope County, Illinois
+0500000US17153,2095,111,Pulaski County, Illinois
+0500000US17155,2413,143,Putnam County, Illinois
+0500000US17157,11883,265,Randolph County, Illinois
+0500000US17159,6452,233,Richland County, Illinois
+0500000US17161,60546,534,Rock Island County, Illinois
+0500000US17163,104105,1032,St. Clair County, Illinois
+0500000US17165,9972,288,Saline County, Illinois
+0500000US17167,83711,716,Sangamon County, Illinois
+0500000US17169,2775,188,Schuyler County, Illinois
+0500000US17171,1939,92,Scott County, Illinois
+0500000US17173,9189,243,Shelby County, Illinois
+0500000US17175,2315,100,Stark County, Illinois
+0500000US17177,19739,327,Stephenson County, Illinois
+0500000US17179,54291,624,Tazewell County, Illinois
+0500000US17181,6654,249,Union County, Illinois
+0500000US17183,31151,442,Vermilion County, Illinois
+0500000US17185,4839,180,Wabash County, Illinois
+0500000US17187,6862,196,Warren County, Illinois
+0500000US17189,6020,108,Washington County, Illinois
+0500000US17191,7051,175,Wayne County, Illinois
+0500000US17193,6041,206,White County, Illinois
+0500000US17195,23084,337,Whiteside County, Illinois
+0500000US17197,229498,1081,Will County, Illinois
+0500000US17199,27029,544,Williamson County, Illinois
+0500000US17201,114779,837,Winnebago County, Illinois
+0500000US17203,14499,237,Woodford County, Illinois
+0500000US18001,12481,262,Adams County, Indiana
+0500000US18003,145065,1071,Allen County, Indiana
+0500000US18005,31452,408,Bartholomew County, Indiana
+0500000US18007,3432,113,Benton County, Indiana
+0500000US18009,5235,148,Blackford County, Indiana
+0500000US18011,25485,340,Boone County, Indiana
+0500000US18013,6189,264,Brown County, Indiana
+0500000US18015,8002,221,Carroll County, Indiana
+0500000US18017,14688,291,Cass County, Indiana
+0500000US18019,44200,586,Clark County, Indiana
+0500000US18021,10543,287,Clay County, Indiana
+0500000US18023,12033,279,Clinton County, Indiana
+0500000US18025,3835,198,Crawford County, Indiana
+0500000US18027,11227,210,Daviess County, Indiana
+0500000US18029,18870,367,Dearborn County, Indiana
+0500000US18031,10353,220,Decatur County, Indiana
+0500000US18033,16801,259,DeKalb County, Indiana
+0500000US18035,46026,617,Delaware County, Indiana
+0500000US18037,16893,304,Dubois County, Indiana
+0500000US18039,71718,705,Elkhart County, Indiana
+0500000US18041,9584,236,Fayette County, Indiana
+0500000US18043,29189,466,Floyd County, Indiana
+0500000US18045,6974,196,Fountain County, Indiana
+0500000US18047,8687,221,Franklin County, Indiana
+0500000US18049,7799,333,Fulton County, Indiana
+0500000US18051,13340,286,Gibson County, Indiana
+0500000US18053,26372,488,Grant County, Indiana
+0500000US18055,12781,318,Greene County, Indiana
+0500000US18057,119789,688,Hamilton County, Indiana
+0500000US18059,28740,347,Hancock County, Indiana
+0500000US18061,14403,456,Harrison County, Indiana
+0500000US18063,59015,601,Hendricks County, Indiana
+0500000US18065,18304,346,Henry County, Indiana
+0500000US18067,34701,517,Howard County, Indiana
+0500000US18069,14742,224,Huntington County, Indiana
+0500000US18071,16753,358,Jackson County, Indiana
+0500000US18073,12533,259,Jasper County, Indiana
+0500000US18075,8174,197,Jay County, Indiana
+0500000US18077,12632,278,Jefferson County, Indiana
+0500000US18079,10792,250,Jennings County, Indiana
+0500000US18081,56628,610,Johnson County, Indiana
+0500000US18083,15038,396,Knox County, Indiana
+0500000US18085,30997,429,Kosciusko County, Indiana
+0500000US18087,12325,291,LaGrange County, Indiana
+0500000US18089,186731,1039,Lake County, Indiana
+0500000US18091,43039,549,LaPorte County, Indiana
+0500000US18093,18781,352,Lawrence County, Indiana
+0500000US18095,51003,638,Madison County, Indiana
+0500000US18097,372358,1711,Marion County, Indiana
+0500000US18099,17304,327,Marshall County, Indiana
+0500000US18101,4187,150,Martin County, Indiana
+0500000US18103,13611,265,Miami County, Indiana
+0500000US18105,55624,725,Monroe County, Indiana
+0500000US18107,15382,280,Montgomery County, Indiana
+0500000US18109,26034,433,Morgan County, Indiana
+0500000US18111,5573,149,Newton County, Indiana
+0500000US18113,18276,269,Noble County, Indiana
+0500000US18115,2555,99,Ohio County, Indiana
+0500000US18117,7898,196,Orange County, Indiana
+0500000US18119,8776,263,Owen County, Indiana
+0500000US18121,6057,277,Parke County, Indiana
+0500000US18123,7615,184,Perry County, Indiana
+0500000US18125,5129,169,Pike County, Indiana
+0500000US18127,64517,513,Porter County, Indiana
+0500000US18129,10155,239,Posey County, Indiana
+0500000US18131,5151,186,Pulaski County, Indiana
+0500000US18133,13543,296,Putnam County, Indiana
+0500000US18135,10229,218,Randolph County, Indiana
+0500000US18137,10992,265,Ripley County, Indiana
+0500000US18139,6667,200,Rush County, Indiana
+0500000US18141,101872,956,St. Joseph County, Indiana
+0500000US18143,8971,344,Scott County, Indiana
+0500000US18145,17823,238,Shelby County, Indiana
+0500000US18147,8127,202,Spencer County, Indiana
+0500000US18149,8549,274,Starke County, Indiana
+0500000US18151,14261,336,Steuben County, Indiana
+0500000US18153,7644,243,Sullivan County, Indiana
+0500000US18155,4349,168,Switzerland County, Indiana
+0500000US18157,70526,773,Tippecanoe County, Indiana
+0500000US18159,6376,187,Tipton County, Indiana
+0500000US18161,2823,121,Union County, Indiana
+0500000US18163,75607,838,Vanderburgh County, Indiana
+0500000US18165,6664,195,Vermillion County, Indiana
+0500000US18167,41994,711,Vigo County, Indiana
+0500000US18169,12862,265,Wabash County, Indiana
+0500000US18171,3357,104,Warren County, Indiana
+0500000US18173,24514,305,Warrick County, Indiana
+0500000US18175,10940,257,Washington County, Indiana
+0500000US18177,26644,512,Wayne County, Indiana
+0500000US18179,10888,222,Wells County, Indiana
+0500000US18181,9879,245,White County, Indiana
+0500000US18183,13742,216,Whitley County, Indiana
+0500000US19001,3200,97,Adair County, Iowa
+0500000US19003,1598,84,Adams County, Iowa
+0500000US19005,5953,193,Allamakee County, Iowa
+0500000US19007,5353,204,Appanoose County, Iowa
+0500000US19009,2649,95,Audubon County, Iowa
+0500000US19011,10306,189,Benton County, Iowa
+0500000US19013,52905,511,Black Hawk County, Iowa
+0500000US19015,10954,235,Boone County, Iowa
+0500000US19017,9676,189,Bremer County, Iowa
+0500000US19019,8029,194,Buchanan County, Iowa
+0500000US19021,7524,187,Buena Vista County, Iowa
+0500000US19023,6254,132,Butler County, Iowa
+0500000US19025,4146,225,Calhoun County, Iowa
+0500000US19027,8726,198,Carroll County, Iowa
+0500000US19029,5921,148,Cass County, Iowa
+0500000US19031,7391,216,Cedar County, Iowa
+0500000US19033,19241,398,Cerro Gordo County, Iowa
+0500000US19035,5319,142,Cherokee County, Iowa
+0500000US19037,5173,123,Chickasaw County, Iowa
+0500000US19039,3895,136,Clarke County, Iowa
+0500000US19041,7212,234,Clay County, Iowa
+0500000US19043,7510,199,Clayton County, Iowa
+0500000US19045,19635,307,Clinton County, Iowa
+0500000US19047,6437,197,Crawford County, Iowa
+0500000US19049,34399,439,Dallas County, Iowa
+0500000US19051,3176,143,Davis County, Iowa
+0500000US19053,3200,129,Decatur County, Iowa
+0500000US19055,6907,176,Delaware County, Iowa
+0500000US19057,16891,296,Des Moines County, Iowa
+0500000US19059,8174,260,Dickinson County, Iowa
+0500000US19061,38210,380,Dubuque County, Iowa
+0500000US19063,4036,179,Emmet County, Iowa
+0500000US19065,8200,184,Fayette County, Iowa
+0500000US19067,6903,179,Floyd County, Iowa
+0500000US19069,4192,155,Franklin County, Iowa
+0500000US19071,2945,100,Fremont County, Iowa
+0500000US19073,3971,150,Greene County, Iowa
+0500000US19075,5155,110,Grundy County, Iowa
+0500000US19077,4452,153,Guthrie County, Iowa
+0500000US19079,6259,189,Hamilton County, Iowa
+0500000US19081,4790,121,Hancock County, Iowa
+0500000US19083,7148,177,Hardin County, Iowa
+0500000US19085,6019,157,Harrison County, Iowa
+0500000US19087,7743,173,Henry County, Iowa
+0500000US19089,3810,141,Howard County, Iowa
+0500000US19091,4174,116,Humboldt County, Iowa
+0500000US19093,3011,102,Ida County, Iowa
+0500000US19095,6780,163,Iowa County, Iowa
+0500000US19097,8239,217,Jackson County, Iowa
+0500000US19099,14574,323,Jasper County, Iowa
+0500000US19101,6754,259,Jefferson County, Iowa
+0500000US19103,59134,660,Johnson County, Iowa
+0500000US19105,8130,215,Jones County, Iowa
+0500000US19107,4394,94,Keokuk County, Iowa
+0500000US19109,6646,142,Kossuth County, Iowa
+0500000US19111,14233,279,Lee County, Iowa
+0500000US19113,90877,780,Linn County, Iowa
+0500000US19115,4335,159,Louisa County, Iowa
+0500000US19117,3701,125,Lucas County, Iowa
+0500000US19119,4548,133,Lyon County, Iowa
+0500000US19121,6462,159,Madison County, Iowa
+0500000US19123,8927,227,Mahaska County, Iowa
+0500000US19125,13365,225,Marion County, Iowa
+0500000US19127,15419,287,Marshall County, Iowa
+0500000US19129,5554,180,Mills County, Iowa
+0500000US19131,4355,138,Mitchell County, Iowa
+0500000US19133,4000,154,Monona County, Iowa
+0500000US19135,3294,157,Monroe County, Iowa
+0500000US19137,4554,139,Montgomery County, Iowa
+0500000US19139,16660,264,Muscatine County, Iowa
+0500000US19141,6169,185,O'Brien County, Iowa
+0500000US19143,2633,105,Osceola County, Iowa
+0500000US19145,6280,255,Page County, Iowa
+0500000US19147,3702,131,Palo Alto County, Iowa
+0500000US19149,10250,170,Plymouth County, Iowa
+0500000US19151,3215,122,Pocahontas County, Iowa
+0500000US19153,187798,1054,Polk County, Iowa
+0500000US19155,36799,356,Pottawattamie County, Iowa
+0500000US19157,7767,225,Poweshiek County, Iowa
+0500000US19159,1971,96,Ringgold County, Iowa
+0500000US19161,4313,135,Sac County, Iowa
+0500000US19163,67021,576,Scott County, Iowa
+0500000US19165,5030,149,Shelby County, Iowa
+0500000US19167,12248,203,Sioux County, Iowa
+0500000US19169,37811,537,Story County, Iowa
+0500000US19171,6767,176,Tama County, Iowa
+0500000US19173,2616,78,Taylor County, Iowa
+0500000US19175,5176,174,Union County, Iowa
+0500000US19177,2894,146,Van Buren County, Iowa
+0500000US19179,14481,306,Wapello County, Iowa
+0500000US19181,19258,183,Warren County, Iowa
+0500000US19183,8832,166,Washington County, Iowa
+0500000US19185,2689,98,Wayne County, Iowa
+0500000US19187,15306,332,Webster County, Iowa
+0500000US19189,4577,173,Winnebago County, Iowa
+0500000US19191,8257,203,Winneshiek County, Iowa
+0500000US19193,39016,533,Woodbury County, Iowa
+0500000US19195,3172,88,Worth County, Iowa
+0500000US19197,5718,156,Wright County, Iowa
+0500000US20001,5372,160,Allen County, Kansas
+0500000US20003,3101,157,Anderson County, Kansas
+0500000US20005,5958,258,Atchison County, Kansas
+0500000US20007,1923,110,Barber County, Kansas
+0500000US20009,10624,280,Barton County, Kansas
+0500000US20011,5636,220,Bourbon County, Kansas
+0500000US20013,3872,112,Brown County, Kansas
+0500000US20015,24870,371,Butler County, Kansas
+0500000US20017,1051,66,Chase County, Kansas
+0500000US20019,1456,97,Chautauqua County, Kansas
+0500000US20021,7929,299,Cherokee County, Kansas
+0500000US20023,1221,62,Cheyenne County, Kansas
+0500000US20025,873,48,Clark County, Kansas
+0500000US20027,3514,199,Clay County, Kansas
+0500000US20029,3689,140,Cloud County, Kansas
+0500000US20031,3585,108,Coffey County, Kansas
+0500000US20033,751,54,Comanche County, Kansas
+0500000US20035,13499,348,Cowley County, Kansas
+0500000US20037,15284,322,Crawford County, Kansas
+0500000US20039,1442,79,Decatur County, Kansas
+0500000US20041,7911,213,Dickinson County, Kansas
+0500000US20043,3046,102,Doniphan County, Kansas
+0500000US20045,46936,538,Douglas County, Kansas
+0500000US20047,1308,78,Edwards County, Kansas
+0500000US20049,1128,75,Elk County, Kansas
+0500000US20051,11544,322,Ellis County, Kansas
+0500000US20053,2388,149,Ellsworth County, Kansas
+0500000US20055,12519,202,Finney County, Kansas
+0500000US20057,11344,209,Ford County, Kansas
+0500000US20059,10118,278,Franklin County, Kansas
+0500000US20061,12684,403,Geary County, Kansas
+0500000US20063,1217,106,Gove County, Kansas
+0500000US20065,1196,72,Graham County, Kansas
+0500000US20067,2551,150,Grant County, Kansas
+0500000US20069,2151,80,Gray County, Kansas
+0500000US20071,519,48,Greeley County, Kansas
+0500000US20073,2769,117,Greenwood County, Kansas
+0500000US20075,890,88,Hamilton County, Kansas
+0500000US20077,2265,129,Harper County, Kansas
+0500000US20079,13290,261,Harvey County, Kansas
+0500000US20081,1320,77,Haskell County, Kansas
+0500000US20083,767,62,Hodgeman County, Kansas
+0500000US20085,5465,103,Jackson County, Kansas
+0500000US20087,7575,190,Jefferson County, Kansas
+0500000US20089,1380,63,Jewell County, Kansas
+0500000US20091,228592,1005,Johnson County, Kansas
+0500000US20093,1201,89,Kearny County, Kansas
+0500000US20095,3133,116,Kingman County, Kansas
+0500000US20097,985,63,Kiowa County, Kansas
+0500000US20099,8176,212,Labette County, Kansas
+0500000US20101,757,86,Lane County, Kansas
+0500000US20103,27253,385,Leavenworth County, Kansas
+0500000US20105,1248,69,Lincoln County, Kansas
+0500000US20107,4497,180,Linn County, Kansas
+0500000US20109,1153,75,Logan County, Kansas
+0500000US20111,13569,314,Lyon County, Kansas
+0500000US20113,12334,231,McPherson County, Kansas
+0500000US20115,4846,152,Marion County, Kansas
+0500000US20117,4085,143,Marshall County, Kansas
+0500000US20119,1689,90,Meade County, Kansas
+0500000US20121,12835,272,Miami County, Kansas
+0500000US20123,2570,169,Mitchell County, Kansas
+0500000US20125,13576,371,Montgomery County, Kansas
+0500000US20127,2280,108,Morris County, Kansas
+0500000US20129,1038,93,Morton County, Kansas
+0500000US20131,4007,112,Nemaha County, Kansas
+0500000US20133,6601,199,Neosho County, Kansas
+0500000US20135,1269,74,Ness County, Kansas
+0500000US20137,1830,198,Norton County, Kansas
+0500000US20139,6607,190,Osage County, Kansas
+0500000US20141,1648,87,Osborne County, Kansas
+0500000US20143,2446,79,Ottawa County, Kansas
+0500000US20145,2448,195,Pawnee County, Kansas
+0500000US20147,2316,114,Phillips County, Kansas
+0500000US20149,8698,232,Pottawatomie County, Kansas
+0500000US20151,3652,192,Pratt County, Kansas
+0500000US20153,1176,120,Rawlins County, Kansas
+0500000US20155,25014,398,Reno County, Kansas
+0500000US20157,2218,101,Republic County, Kansas
+0500000US20159,3917,146,Rice County, Kansas
+0500000US20161,26490,575,Riley County, Kansas
+0500000US20163,2176,92,Rooks County, Kansas
+0500000US20165,1421,90,Rush County, Kansas
+0500000US20167,3015,179,Russell County, Kansas
+0500000US20169,21959,456,Saline County, Kansas
+0500000US20171,1967,141,Scott County, Kansas
+0500000US20173,197229,1279,Sedgwick County, Kansas
+0500000US20175,7321,207,Seward County, Kansas
+0500000US20177,72267,778,Shawnee County, Kansas
+0500000US20179,1134,48,Sheridan County, Kansas
+0500000US20181,2544,196,Sherman County, Kansas
+0500000US20183,1701,76,Smith County, Kansas
+0500000US20185,1771,73,Stafford County, Kansas
+0500000US20187,733,84,Stanton County, Kansas
+0500000US20189,1814,128,Stevens County, Kansas
+0500000US20191,9416,236,Sumner County, Kansas
+0500000US20193,3375,120,Thomas County, Kansas
+0500000US20195,1379,76,Trego County, Kansas
+0500000US20197,2744,143,Wabaunsee County, Kansas
+0500000US20199,636,46,Wallace County, Kansas
+0500000US20201,2332,100,Washington County, Kansas
+0500000US20203,934,84,Wichita County, Kansas
+0500000US20205,3712,146,Wilson County, Kansas
+0500000US20207,1434,67,Woodson County, Kansas
+0500000US20209,60128,637,Wyandotte County, Kansas
+0500000US21001,6977,211,Adair County, Kentucky
+0500000US21003,7605,266,Allen County, Kentucky
+0500000US21005,8694,237,Anderson County, Kentucky
+0500000US21007,3065,152,Ballard County, Kentucky
+0500000US21009,16931,384,Barren County, Kentucky
+0500000US21011,4827,204,Bath County, Kentucky
+0500000US21013,10624,340,Bell County, Kentucky
+0500000US21015,46997,440,Boone County, Kentucky
+0500000US21017,8106,253,Bourbon County, Kentucky
+0500000US21019,18210,361,Boyd County, Kentucky
+0500000US21021,11023,284,Boyle County, Kentucky
+0500000US21023,3318,137,Bracken County, Kentucky
+0500000US21025,5358,176,Breathitt County, Kentucky
+0500000US21027,7598,256,Breckinridge County, Kentucky
+0500000US21029,29690,338,Bullitt County, Kentucky
+0500000US21031,4958,175,Butler County, Kentucky
+0500000US21033,5163,254,Caldwell County, Kentucky
+0500000US21035,14996,509,Calloway County, Kentucky
+0500000US21037,36746,435,Campbell County, Kentucky
+0500000US21039,1980,103,Carlisle County, Kentucky
+0500000US21041,4101,182,Carroll County, Kentucky
+0500000US21043,9606,347,Carter County, Kentucky
+0500000US21045,6099,231,Casey County, Kentucky
+0500000US21047,25721,481,Christian County, Kentucky
+0500000US21049,14509,263,Clark County, Kentucky
+0500000US21051,7622,275,Clay County, Kentucky
+0500000US21053,3985,194,Clinton County, Kentucky
+0500000US21055,3567,159,Crittenden County, Kentucky
+0500000US21057,2616,185,Cumberland County, Kentucky
+0500000US21059,40179,431,Daviess County, Kentucky
+0500000US21061,4885,200,Edmonson County, Kentucky
+0500000US21063,2523,284,Elliott County, Kentucky
+0500000US21065,5499,239,Estill County, Kentucky
+0500000US21067,129784,997,Fayette County, Kentucky
+0500000US21069,5841,185,Fleming County, Kentucky
+0500000US21071,15000,430,Floyd County, Kentucky
+0500000US21073,21076,370,Franklin County, Kentucky
+0500000US21075,2441,164,Fulton County, Kentucky
+0500000US21077,3105,127,Gallatin County, Kentucky
+0500000US21079,6706,189,Garrard County, Kentucky
+0500000US21081,9141,261,Grant County, Kentucky
+0500000US21083,14316,377,Graves County, Kentucky
+0500000US21085,9758,345,Grayson County, Kentucky
+0500000US21087,4413,194,Green County, Kentucky
+0500000US21089,14056,230,Greenup County, Kentucky
+0500000US21091,3311,93,Hancock County, Kentucky
+0500000US21093,41646,571,Hardin County, Kentucky
+0500000US21095,11134,259,Harlan County, Kentucky
+0500000US21097,7283,229,Harrison County, Kentucky
+0500000US21099,7351,243,Hart County, Kentucky
+0500000US21101,18643,384,Henderson County, Kentucky
+0500000US21103,6044,159,Henry County, Kentucky
+0500000US21105,1798,153,Hickman County, Kentucky
+0500000US21107,18588,425,Hopkins County, Kentucky
+0500000US21109,5484,228,Jackson County, Kentucky
+0500000US21111,312679,1314,Jefferson County, Kentucky
+0500000US21113,18821,335,Jessamine County, Kentucky
+0500000US21115,8488,336,Johnson County, Kentucky
+0500000US21117,63966,543,Kenton County, Kentucky
+0500000US21119,6388,267,Knott County, Kentucky
+0500000US21121,11961,381,Knox County, Kentucky
+0500000US21123,5741,186,Larue County, Kentucky
+0500000US21125,22573,430,Laurel County, Kentucky
+0500000US21127,5784,226,Lawrence County, Kentucky
+0500000US21129,2839,191,Lee County, Kentucky
+0500000US21131,4076,235,Leslie County, Kentucky
+0500000US21133,9721,337,Letcher County, Kentucky
+0500000US21135,5268,203,Lewis County, Kentucky
+0500000US21137,9697,279,Lincoln County, Kentucky
+0500000US21139,3857,192,Livingston County, Kentucky
+0500000US21141,10418,360,Logan County, Kentucky
+0500000US21143,3333,220,Lyon County, Kentucky
+0500000US21145,27854,568,McCracken County, Kentucky
+0500000US21147,6052,308,McCreary County, Kentucky
+0500000US21149,3809,136,McLean County, Kentucky
+0500000US21151,33359,454,Madison County, Kentucky
+0500000US21153,5020,183,Magoffin County, Kentucky
+0500000US21155,7405,208,Marion County, Kentucky
+0500000US21157,13121,440,Marshall County, Kentucky
+0500000US21159,4153,340,Martin County, Kentucky
+0500000US21161,6700,241,Mason County, Kentucky
+0500000US21163,10685,311,Meade County, Kentucky
+0500000US21165,2651,140,Menifee County, Kentucky
+0500000US21167,8556,262,Mercer County, Kentucky
+0500000US21169,4074,172,Metcalfe County, Kentucky
+0500000US21171,4491,162,Monroe County, Kentucky
+0500000US21173,10481,301,Montgomery County, Kentucky
+0500000US21175,4865,188,Morgan County, Kentucky
+0500000US21177,11351,305,Muhlenberg County, Kentucky
+0500000US21179,17853,311,Nelson County, Kentucky
+0500000US21181,2804,137,Nicholas County, Kentucky
+0500000US21183,9122,236,Ohio County, Kentucky
+0500000US21185,20911,241,Oldham County, Kentucky
+0500000US21187,3995,272,Owen County, Kentucky
+0500000US21189,1704,136,Owsley County, Kentucky
+0500000US21191,5253,207,Pendleton County, Kentucky
+0500000US21193,11226,360,Perry County, Kentucky
+0500000US21195,25702,557,Pike County, Kentucky
+0500000US21197,4770,230,Powell County, Kentucky
+0500000US21199,25301,561,Pulaski County, Kentucky
+0500000US21201,861,96,Robertson County, Kentucky
+0500000US21203,6544,233,Rockcastle County, Kentucky
+0500000US21205,8623,381,Rowan County, Kentucky
+0500000US21207,6922,288,Russell County, Kentucky
+0500000US21209,20551,301,Scott County, Kentucky
+0500000US21211,16624,323,Shelby County, Kentucky
+0500000US21213,7028,222,Simpson County, Kentucky
+0500000US21215,6763,174,Spencer County, Kentucky
+0500000US21217,9857,256,Taylor County, Kentucky
+0500000US21219,4644,151,Todd County, Kentucky
+0500000US21221,5892,248,Trigg County, Kentucky
+0500000US21223,3498,147,Trimble County, Kentucky
+0500000US21225,5374,247,Union County, Kentucky
+0500000US21227,48224,573,Warren County, Kentucky
+0500000US21229,4581,172,Washington County, Kentucky
+0500000US21231,8231,384,Wayne County, Kentucky
+0500000US21233,4953,179,Webster County, Kentucky
+0500000US21235,12620,371,Whitley County, Kentucky
+0500000US21237,2898,170,Wolfe County, Kentucky
+0500000US21239,10355,201,Woodford County, Kentucky
+0500000US22001,22236,472,Acadia Parish, Louisiana
+0500000US22003,7925,314,Allen Parish, Louisiana
+0500000US22005,43032,676,Ascension Parish, Louisiana
+0500000US22007,8552,308,Assumption Parish, Louisiana
+0500000US22009,15163,411,Avoyelles Parish, Louisiana
+0500000US22011,13520,378,Beauregard Parish, Louisiana
+0500000US22013,5812,239,Bienville Parish, Louisiana
+0500000US22015,49377,994,Bossier Parish, Louisiana
+0500000US22017,95864,1277,Caddo Parish, Louisiana
+0500000US22019,77780,949,Calcasieu Parish, Louisiana
+0500000US22021,3665,244,Caldwell Parish, Louisiana
+0500000US22023,2734,169,Cameron Parish, Louisiana
+0500000US22025,3364,297,Catahoula Parish, Louisiana
+0500000US22027,5917,331,Claiborne Parish, Louisiana
+0500000US22029,7162,363,Concordia Parish, Louisiana
+0500000US22031,10821,327,De Soto Parish, Louisiana
+0500000US22033,164346,1598,East Baton Rouge Parish, Louisiana
+0500000US22035,2037,322,East Carroll Parish, Louisiana
+0500000US22037,6959,302,East Feliciana Parish, Louisiana
+0500000US22039,12172,368,Evangeline Parish, Louisiana
+0500000US22041,7423,311,Franklin Parish, Louisiana
+0500000US22043,6989,330,Grant Parish, Louisiana
+0500000US22045,26184,604,Iberia Parish, Louisiana
+0500000US22047,10903,385,Iberville Parish, Louisiana
+0500000US22049,5971,264,Jackson Parish, Louisiana
+0500000US22051,169452,1043,Jefferson Parish, Louisiana
+0500000US22053,11726,348,Jefferson Davis Parish, Louisiana
+0500000US22055,91543,934,Lafayette Parish, Louisiana
+0500000US22057,36895,471,Lafourche Parish, Louisiana
+0500000US22059,4814,290,LaSalle Parish, Louisiana
+0500000US22061,17712,407,Lincoln Parish, Louisiana
+0500000US22063,48410,922,Livingston Parish, Louisiana
+0500000US22065,3832,243,Madison Parish, Louisiana
+0500000US22067,9732,344,Morehouse Parish, Louisiana
+0500000US22069,14659,380,Natchitoches Parish, Louisiana
+0500000US22071,153819,1190,Orleans Parish, Louisiana
+0500000US22073,56556,884,Ouachita Parish, Louisiana
+0500000US22075,8919,260,Plaquemines Parish, Louisiana
+0500000US22077,8960,336,Pointe Coupee Parish, Louisiana
+0500000US22079,48488,797,Rapides Parish, Louisiana
+0500000US22081,3372,179,Red River Parish, Louisiana
+0500000US22083,7459,253,Richland Parish, Louisiana
+0500000US22085,9158,372,Sabine Parish, Louisiana
+0500000US22087,15005,267,St. Bernard Parish, Louisiana
+0500000US22089,19212,267,St. Charles Parish, Louisiana
+0500000US22091,3857,207,St. Helena Parish, Louisiana
+0500000US22093,7719,250,St. James Parish, Louisiana
+0500000US22095,15270,453,St. John the Baptist Parish, Louisiana
+0500000US22097,30485,572,St. Landry Parish, Louisiana
+0500000US22099,19749,473,St. Martin Parish, Louisiana
+0500000US22101,19856,429,St. Mary Parish, Louisiana
+0500000US22103,92962,832,St. Tammany Parish, Louisiana
+0500000US22105,47597,766,Tangipahoa Parish, Louisiana
+0500000US22107,1792,125,Tensas Parish, Louisiana
+0500000US22109,39972,661,Terrebonne Parish, Louisiana
+0500000US22111,7582,325,Union Parish, Louisiana
+0500000US22113,22086,418,Vermilion Parish, Louisiana
+0500000US22115,17696,563,Vernon Parish, Louisiana
+0500000US22117,17613,391,Washington Parish, Louisiana
+0500000US22119,16551,423,Webster Parish, Louisiana
+0500000US22121,9643,339,West Baton Rouge Parish, Louisiana
+0500000US22123,4084,219,West Carroll Parish, Louisiana
+0500000US22125,3869,252,West Feliciana Parish, Louisiana
+0500000US22127,5483,249,Winn Parish, Louisiana
+0500000US23001,45630,507,Androscoggin County, Maine
+0500000US23003,29516,500,Aroostook County, Maine
+0500000US23005,120644,924,Cumberland County, Maine
+0500000US23007,11848,321,Franklin County, Maine
+0500000US23009,23661,539,Hancock County, Maine
+0500000US23011,52105,543,Kennebec County, Maine
+0500000US23013,17020,365,Knox County, Maine
+0500000US23015,15336,364,Lincoln County, Maine
+0500000US23017,21338,531,Oxford County, Maine
+0500000US23019,62156,703,Penobscot County, Maine
+0500000US23021,7025,228,Piscataquis County, Maine
+0500000US23023,15980,340,Sagadahoc County, Maine
+0500000US23025,21321,368,Somerset County, Maine
+0500000US23027,17236,345,Waldo County, Maine
+0500000US23029,13791,304,Washington County, Maine
+0500000US23031,85314,938,York County, Maine
+0500000US24001,27399,455,Allegany County, Maryland
+0500000US24003,209814,1255,Anne Arundel County, Maryland
+0500000US24005,313519,1415,Baltimore County, Maryland
+0500000US24009,31973,483,Calvert County, Maryland
+0500000US24011,12024,261,Caroline County, Maryland
+0500000US24013,60758,435,Carroll County, Maryland
+0500000US24015,37058,625,Cecil County, Maryland
+0500000US24017,56520,502,Charles County, Maryland
+0500000US24019,13183,327,Dorchester County, Maryland
+0500000US24021,92526,645,Frederick County, Maryland
+0500000US24023,12425,393,Garrett County, Maryland
+0500000US24025,93955,721,Harford County, Maryland
+0500000US24027,114170,702,Howard County, Maryland
+0500000US24029,8025,307,Kent County, Maryland
+0500000US24031,370950,1211,Montgomery County, Maryland
+0500000US24033,311343,1160,Prince George's County, Maryland
+0500000US24035,18577,364,Queen Anne's County, Maryland
+0500000US24037,40552,533,St. Mary's County, Maryland
+0500000US24039,8574,476,Somerset County, Maryland
+0500000US24041,16826,324,Talbot County, Maryland
+0500000US24043,56035,636,Washington County, Maryland
+0500000US24045,37793,620,Wicomico County, Maryland
+0500000US24047,22089,501,Worcester County, Maryland
+0500000US24510,239116,1454,Baltimore city, Maryland
+0500000US25001,94323,1286,Barnstable County, Massachusetts
+0500000US25003,54813,569,Berkshire County, Massachusetts
+0500000US25005,217912,1172,Bristol County, Massachusetts
+0500000US25007,6765,422,Dukes County, Massachusetts
+0500000US25009,294202,1133,Essex County, Massachusetts
+0500000US25011,30569,316,Franklin County, Massachusetts
+0500000US25013,179423,855,Hampden County, Massachusetts
+0500000US25015,58838,617,Hampshire County, Massachusetts
+0500000US25017,604384,1826,Middlesex County, Massachusetts
+0500000US25019,3713,239,Nantucket County, Massachusetts
+0500000US25021,265300,962,Norfolk County, Massachusetts
+0500000US25023,187460,1194,Plymouth County, Massachusetts
+0500000US25025,309844,1459,Suffolk County, Massachusetts
+0500000US25027,309951,1360,Worcester County, Massachusetts
+0500000US26001,4988,139,Alcona County, Michigan
+0500000US26003,3007,180,Alger County, Michigan
+0500000US26005,43416,583,Allegan County, Michigan
+0500000US26007,12752,283,Alpena County, Michigan
+0500000US26009,9899,265,Antrim County, Michigan
+0500000US26011,6571,180,Arenac County, Michigan
+0500000US26013,3107,152,Baraga County, Michigan
+0500000US26015,24296,400,Barry County, Michigan
+0500000US26017,44339,476,Bay County, Michigan
+0500000US26019,6792,196,Benzie County, Michigan
+0500000US26021,63665,506,Berrien County, Michigan
+0500000US26023,16650,293,Branch County, Michigan
+0500000US26025,53991,612,Calhoun County, Michigan
+0500000US26027,21019,328,Cass County, Michigan
+0500000US26029,11503,245,Charlevoix County, Michigan
+0500000US26031,11195,309,Cheboygan County, Michigan
+0500000US26033,13999,337,Chippewa County, Michigan
+0500000US26035,12199,320,Clare County, Michigan
+0500000US26037,29728,298,Clinton County, Michigan
+0500000US26039,6141,261,Crawford County, Michigan
+0500000US26041,16234,256,Delta County, Michigan
+0500000US26043,11231,311,Dickinson County, Michigan
+0500000US26045,44480,409,Eaton County, Michigan
+0500000US26047,14463,326,Emmet County, Michigan
+0500000US26049,167902,1068,Genesee County, Michigan
+0500000US26051,11047,206,Gladwin County, Michigan
+0500000US26053,6744,257,Gogebic County, Michigan
+0500000US26055,37319,597,Grand Traverse County, Michigan
+0500000US26057,15035,289,Gratiot County, Michigan
+0500000US26059,18107,280,Hillsdale County, Michigan
+0500000US26061,13386,312,Houghton County, Michigan
+0500000US26063,13847,273,Huron County, Michigan
+0500000US26065,112840,865,Ingham County, Michigan
+0500000US26067,22964,410,Ionia County, Michigan
+0500000US26069,11669,265,Iosco County, Michigan
+0500000US26071,5225,162,Iron County, Michigan
+0500000US26073,24739,430,Isabella County, Michigan
+0500000US26075,61805,707,Jackson County, Michigan
+0500000US26077,103445,875,Kalamazoo County, Michigan
+0500000US26079,7145,212,Kalkaska County, Michigan
+0500000US26081,241746,975,Kent County, Michigan
+0500000US26083,1081,74,Keweenaw County, Michigan
+0500000US26085,4631,116,Lake County, Michigan
+0500000US26087,33700,386,Lapeer County, Michigan
+0500000US26089,9139,217,Leelanau County, Michigan
+0500000US26091,38345,523,Lenawee County, Michigan
+0500000US26093,72000,450,Livingston County, Michigan
+0500000US26095,2231,160,Luce County, Michigan
+0500000US26097,5269,250,Mackinac County, Michigan
+0500000US26099,346402,1325,Macomb County, Michigan
+0500000US26101,9426,275,Manistee County, Michigan
+0500000US26103,26552,426,Marquette County, Michigan
+0500000US26105,12186,295,Mason County, Michigan
+0500000US26107,15808,405,Mecosta County, Michigan
+0500000US26109,10627,268,Menominee County, Michigan
+0500000US26111,34199,413,Midland County, Michigan
+0500000US26113,6055,149,Missaukee County, Michigan
+0500000US26115,59929,547,Monroe County, Michigan
+0500000US26117,23913,361,Montcalm County, Michigan
+0500000US26119,4452,174,Montmorency County, Michigan
+0500000US26121,65939,653,Muskegon County, Michigan
+0500000US26123,19161,275,Newaygo County, Michigan
+0500000US26125,504585,1837,Oakland County, Michigan
+0500000US26127,10156,232,Oceana County, Michigan
+0500000US26129,9184,237,Ogemaw County, Michigan
+0500000US26131,2793,103,Ontonagon County, Michigan
+0500000US26133,9181,162,Osceola County, Michigan
+0500000US26135,3806,171,Oscoda County, Michigan
+0500000US26137,9944,241,Otsego County, Michigan
+0500000US26139,102610,669,Ottawa County, Michigan
+0500000US26141,5797,134,Presque Isle County, Michigan
+0500000US26143,11139,356,Roscommon County, Michigan
+0500000US26145,78933,654,Saginaw County, Michigan
+0500000US26147,64850,525,St. Clair County, Michigan
+0500000US26149,24150,319,St. Joseph County, Michigan
+0500000US26151,17499,286,Sanilac County, Michigan
+0500000US26153,3468,139,Schoolcraft County, Michigan
+0500000US26155,27593,295,Shiawassee County, Michigan
+0500000US26157,21777,334,Tuscola County, Michigan
+0500000US26159,29411,528,Van Buren County, Michigan
+0500000US26161,141245,943,Washtenaw County, Michigan
+0500000US26163,682282,2593,Wayne County, Michigan
+0500000US26165,12963,291,Wexford County, Michigan
+0500000US27001,7681,248,Aitkin County, Minnesota
+0500000US27003,128198,456,Anoka County, Minnesota
+0500000US27005,13617,226,Becker County, Minnesota
+0500000US27007,17372,279,Beltrami County, Minnesota
+0500000US27009,16452,196,Benton County, Minnesota
+0500000US27011,2298,98,Big Stone County, Minnesota
+0500000US27013,26091,343,Blue Earth County, Minnesota
+0500000US27015,10764,200,Brown County, Minnesota
+0500000US27017,13613,288,Carlton County, Minnesota
+0500000US27019,36754,335,Carver County, Minnesota
+0500000US27021,13164,298,Cass County, Minnesota
+0500000US27023,5209,123,Chippewa County, Minnesota
+0500000US27025,20242,267,Chisago County, Minnesota
+0500000US27027,24364,421,Clay County, Minnesota
+0500000US27029,3405,96,Clearwater County, Minnesota
+0500000US27031,2691,163,Cook County, Minnesota
+0500000US27033,4846,135,Cottonwood County, Minnesota
+0500000US27035,26820,479,Crow Wing County, Minnesota
+0500000US27037,161488,587,Dakota County, Minnesota
+0500000US27039,7756,139,Dodge County, Minnesota
+0500000US27041,16663,259,Douglas County, Minnesota
+0500000US27043,6137,154,Faribault County, Minnesota
+0500000US27045,8616,177,Fillmore County, Minnesota
+0500000US27047,13009,228,Freeborn County, Minnesota
+0500000US27049,19452,225,Goodhue County, Minnesota
+0500000US27051,2612,83,Grant County, Minnesota
+0500000US27053,508030,1677,Hennepin County, Minnesota
+0500000US27055,8253,122,Houston County, Minnesota
+0500000US27057,8688,181,Hubbard County, Minnesota
+0500000US27059,14903,196,Isanti County, Minnesota
+0500000US27061,19506,367,Itasca County, Minnesota
+0500000US27063,4419,134,Jackson County, Minnesota
+0500000US27065,6439,144,Kanabec County, Minnesota
+0500000US27067,16889,235,Kandiyohi County, Minnesota
+0500000US27069,1860,84,Kittson County, Minnesota
+0500000US27071,5538,219,Koochiching County, Minnesota
+0500000US27073,3090,132,Lac qui Parle County, Minnesota
+0500000US27075,5192,249,Lake County, Minnesota
+0500000US27077,1470,118,Lake of the Woods County, Minnesota
+0500000US27079,10939,166,Le Sueur County, Minnesota
+0500000US27081,2468,86,Lincoln County, Minnesota
+0500000US27083,10018,178,Lyon County, Minnesota
+0500000US27085,14714,211,McLeod County, Minnesota
+0500000US27087,1946,47,Mahnomen County, Minnesota
+0500000US27089,3971,87,Marshall County, Minnesota
+0500000US27091,8759,227,Martin County, Minnesota
+0500000US27093,9209,161,Meeker County, Minnesota
+0500000US27095,10249,183,Mille Lacs County, Minnesota
+0500000US27097,13371,253,Morrison County, Minnesota
+0500000US27099,15565,330,Mower County, Minnesota
+0500000US27101,3645,119,Murray County, Minnesota
+0500000US27103,12885,228,Nicollet County, Minnesota
+0500000US27105,8033,118,Nobles County, Minnesota
+0500000US27107,2746,89,Norman County, Minnesota
+0500000US27109,62108,511,Olmsted County, Minnesota
+0500000US27111,24687,299,Otter Tail County, Minnesota
+0500000US27113,5995,138,Pennington County, Minnesota
+0500000US27115,10760,219,Pine County, Minnesota
+0500000US27117,3973,122,Pipestone County, Minnesota
+0500000US27119,12584,244,Polk County, Minnesota
+0500000US27121,4981,205,Pope County, Minnesota
+0500000US27123,209043,906,Ramsey County, Minnesota
+0500000US27125,1669,56,Red Lake County, Minnesota
+0500000US27127,6261,129,Redwood County, Minnesota
+0500000US27129,6085,128,Renville County, Minnesota
+0500000US27131,23005,362,Rice County, Minnesota
+0500000US27133,3914,149,Rock County, Minnesota
+0500000US27135,5980,164,Roseau County, Minnesota
+0500000US27137,85807,756,St. Louis County, Minnesota
+0500000US27139,49479,377,Scott County, Minnesota
+0500000US27141,32206,372,Sherburne County, Minnesota
+0500000US27143,6031,115,Sibley County, Minnesota
+0500000US27145,59479,467,Stearns County, Minnesota
+0500000US27147,14692,215,Steele County, Minnesota
+0500000US27149,3624,157,Stevens County, Minnesota
+0500000US27151,4263,113,Swift County, Minnesota
+0500000US27153,9819,176,Todd County, Minnesota
+0500000US27155,1608,85,Traverse County, Minnesota
+0500000US27157,9020,170,Wabasha County, Minnesota
+0500000US27159,5666,192,Wadena County, Minnesota
+0500000US27161,7425,143,Waseca County, Minnesota
+0500000US27163,94431,505,Washington County, Minnesota
+0500000US27165,4310,146,Watonwan County, Minnesota
+0500000US27167,2818,110,Wilkin County, Minnesota
+0500000US27169,19442,286,Winona County, Minnesota
+0500000US27171,48242,413,Wright County, Minnesota
+0500000US27173,4087,133,Yellow Medicine County, Minnesota
+0500000US28001,11237,398,Adams County, Mississippi
+0500000US28003,14649,420,Alcorn County, Mississippi
+0500000US28005,5218,291,Amite County, Mississippi
+0500000US28007,6941,264,Attala County, Mississippi
+0500000US28009,3149,243,Benton County, Mississippi
+0500000US28011,12111,337,Bolivar County, Mississippi
+0500000US28013,5846,168,Calhoun County, Mississippi
+0500000US28015,3827,329,Carroll County, Mississippi
+0500000US28017,6476,213,Chickasaw County, Mississippi
+0500000US28019,3228,179,Choctaw County, Mississippi
+0500000US28021,2908,177,Claiborne County, Mississippi
+0500000US28023,6237,231,Clarke County, Mississippi
+0500000US28025,7618,233,Clay County, Mississippi
+0500000US28027,8782,317,Coahoma County, Mississippi
+0500000US28029,9414,344,Copiah County, Mississippi
+0500000US28031,6759,348,Covington County, Mississippi
+0500000US28033,62890,622,DeSoto County, Mississippi
+0500000US28035,28086,554,Forrest County, Mississippi
+0500000US28037,2928,196,Franklin County, Mississippi
+0500000US28039,7592,364,George County, Mississippi
+0500000US28041,3925,330,Greene County, Mississippi
+0500000US28043,8391,382,Grenada County, Mississippi
+0500000US28045,20036,628,Hancock County, Mississippi
+0500000US28047,78104,972,Harrison County, Mississippi
+0500000US28049,88611,841,Hinds County, Mississippi
+0500000US28051,6188,254,Holmes County, Mississippi
+0500000US28053,3186,135,Humphreys County, Mississippi
+0500000US28055,483,61,Issaquena County, Mississippi
+0500000US28057,8653,312,Itawamba County, Mississippi
+0500000US28059,52423,933,Jackson County, Mississippi
+0500000US28061,6629,230,Jasper County, Mississippi
+0500000US28063,2448,234,Jefferson County, Mississippi
+0500000US28065,4713,209,Jefferson Davis County, Mississippi
+0500000US28067,24858,610,Jones County, Mississippi
+0500000US28069,3611,298,Kemper County, Mississippi
+0500000US28071,18721,626,Lafayette County, Mississippi
+0500000US28073,22116,455,Lamar County, Mississippi
+0500000US28075,29736,546,Lauderdale County, Mississippi
+0500000US28077,4849,178,Lawrence County, Mississippi
+0500000US28079,8105,294,Leake County, Mississippi
+0500000US28081,32099,539,Lee County, Mississippi
+0500000US28083,9962,342,Leflore County, Mississippi
+0500000US28085,12699,433,Lincoln County, Mississippi
+0500000US28087,22436,534,Lowndes County, Mississippi
+0500000US28089,39635,567,Madison County, Mississippi
+0500000US28091,9483,322,Marion County, Mississippi
+0500000US28093,12772,506,Marshall County, Mississippi
+0500000US28095,13966,356,Monroe County, Mississippi
+0500000US28097,4539,208,Montgomery County, Mississippi
+0500000US28099,10657,300,Neshoba County, Mississippi
+0500000US28101,8037,272,Newton County, Mississippi
+0500000US28103,3986,198,Noxubee County, Mississippi
+0500000US28105,17798,545,Oktibbeha County, Mississippi
+0500000US28107,12488,360,Panola County, Mississippi
+0500000US28109,21020,538,Pearl River County, Mississippi
+0500000US28111,4623,199,Perry County, Mississippi
+0500000US28113,14404,431,Pike County, Mississippi
+0500000US28115,10783,318,Pontotoc County, Mississippi
+0500000US28117,9145,337,Prentiss County, Mississippi
+0500000US28119,3027,110,Quitman County, Mississippi
+0500000US28121,55909,651,Rankin County, Mississippi
+0500000US28123,10180,305,Scott County, Mississippi
+0500000US28125,1751,125,Sharkey County, Mississippi
+0500000US28127,9486,434,Simpson County, Mississippi
+0500000US28129,5820,316,Smith County, Mississippi
+0500000US28131,6334,266,Stone County, Mississippi
+0500000US28133,8322,263,Sunflower County, Mississippi
+0500000US28135,4369,363,Tallahatchie County, Mississippi
+0500000US28137,10324,328,Tate County, Mississippi
+0500000US28139,7834,388,Tippah County, Mississippi
+0500000US28141,7635,312,Tishomingo County, Mississippi
+0500000US28143,3930,201,Tunica County, Mississippi
+0500000US28145,9808,287,Union County, Mississippi
+0500000US28147,5601,336,Walthall County, Mississippi
+0500000US28149,18235,371,Warren County, Mississippi
+0500000US28151,17988,341,Washington County, Mississippi
+0500000US28153,7683,353,Wayne County, Mississippi
+0500000US28155,3782,185,Webster County, Mississippi
+0500000US28157,3170,285,Wilkinson County, Mississippi
+0500000US28159,7269,269,Winston County, Mississippi
+0500000US28161,5181,243,Yalobusha County, Mississippi
+0500000US28163,8542,679,Yazoo County, Mississippi
+0500000US29001,9258,282,Adair County, Missouri
+0500000US29003,6763,163,Andrew County, Missouri
+0500000US29005,2562,87,Atchison County, Missouri
+0500000US29007,9286,298,Audrain County, Missouri
+0500000US29009,13645,390,Barry County, Missouri
+0500000US29011,4895,147,Barton County, Missouri
+0500000US29013,6547,203,Bates County, Missouri
+0500000US29015,7872,333,Benton County, Missouri
+0500000US29017,4593,175,Bollinger County, Missouri
+0500000US29019,70619,742,Boone County, Missouri
+0500000US29021,33501,570,Buchanan County, Missouri
+0500000US29023,16390,393,Butler County, Missouri
+0500000US29025,3639,131,Caldwell County, Missouri
+0500000US29027,15973,457,Callaway County, Missouri
+0500000US29029,16031,593,Camden County, Missouri
+0500000US29031,29594,570,Cape Girardeau County, Missouri
+0500000US29033,3503,155,Carroll County, Missouri
+0500000US29035,2333,142,Carter County, Missouri
+0500000US29037,39770,414,Cass County, Missouri
+0500000US29039,5842,271,Cedar County, Missouri
+0500000US29041,2686,133,Chariton County, Missouri
+0500000US29043,31645,396,Christian County, Missouri
+0500000US29045,2657,134,Clark County, Missouri
+0500000US29047,91238,886,Clay County, Missouri
+0500000US29049,8177,214,Clinton County, Missouri
+0500000US29051,30154,586,Cole County, Missouri
+0500000US29053,6397,237,Cooper County, Missouri
+0500000US29055,9578,287,Crawford County, Missouri
+0500000US29057,3068,136,Dade County, Missouri
+0500000US29059,6209,285,Dallas County, Missouri
+0500000US29061,3035,102,Daviess County, Missouri
+0500000US29063,3807,177,DeKalb County, Missouri
+0500000US29065,6371,179,Dent County, Missouri
+0500000US29067,5137,274,Douglas County, Missouri
+0500000US29069,12342,303,Dunklin County, Missouri
+0500000US29071,40943,556,Franklin County, Missouri
+0500000US29073,6076,200,Gasconade County, Missouri
+0500000US29075,2555,123,Gentry County, Missouri
+0500000US29077,125201,898,Greene County, Missouri
+0500000US29079,3936,169,Grundy County, Missouri
+0500000US29081,3429,151,Harrison County, Missouri
+0500000US29083,9328,220,Henry County, Missouri
+0500000US29085,3976,225,Hickory County, Missouri
+0500000US29087,2022,77,Holt County, Missouri
+0500000US29089,3471,163,Howard County, Missouri
+0500000US29091,15878,394,Howell County, Missouri
+0500000US29093,4074,171,Iron County, Missouri
+0500000US29095,286601,1550,Jackson County, Missouri
+0500000US29097,45759,752,Jasper County, Missouri
+0500000US29099,84444,710,Jefferson County, Missouri
+0500000US29101,19864,563,Johnson County, Missouri
+0500000US29103,1490,89,Knox County, Missouri
+0500000US29105,14112,381,Laclede County, Missouri
+0500000US29107,13050,331,Lafayette County, Missouri
+0500000US29109,14787,334,Lawrence County, Missouri
+0500000US29111,3752,123,Lewis County, Missouri
+0500000US29113,19286,421,Lincoln County, Missouri
+0500000US29115,5106,143,Linn County, Missouri
+0500000US29117,5915,187,Livingston County, Missouri
+0500000US29119,8259,225,McDonald County, Missouri
+0500000US29121,5845,195,Macon County, Missouri
+0500000US29123,5044,167,Madison County, Missouri
+0500000US29125,3762,174,Maries County, Missouri
+0500000US29127,11565,298,Marion County, Missouri
+0500000US29129,1271,103,Mercer County, Missouri
+0500000US29131,10111,276,Miller County, Missouri
+0500000US29133,5026,195,Mississippi County, Missouri
+0500000US29135,5436,160,Moniteau County, Missouri
+0500000US29137,3702,164,Monroe County, Missouri
+0500000US29139,5014,191,Montgomery County, Missouri
+0500000US29141,7588,366,Morgan County, Missouri
+0500000US29143,7371,169,New Madrid County, Missouri
+0500000US29145,22202,355,Newton County, Missouri
+0500000US29147,8395,280,Nodaway County, Missouri
+0500000US29149,4249,211,Oregon County, Missouri
+0500000US29151,5120,165,Osage County, Missouri
+0500000US29153,3958,195,Ozark County, Missouri
+0500000US29155,6730,182,Pemiscot County, Missouri
+0500000US29157,7576,166,Perry County, Missouri
+0500000US29159,16033,356,Pettis County, Missouri
+0500000US29161,17981,398,Phelps County, Missouri
+0500000US29163,6589,240,Pike County, Missouri
+0500000US29165,39305,470,Platte County, Missouri
+0500000US29167,11712,322,Polk County, Missouri
+0500000US29169,15154,454,Pulaski County, Missouri
+0500000US29171,1744,128,Putnam County, Missouri
+0500000US29173,4036,153,Ralls County, Missouri
+0500000US29175,8626,300,Randolph County, Missouri
+0500000US29177,8868,216,Ray County, Missouri
+0500000US29179,2596,127,Reynolds County, Missouri
+0500000US29181,5059,223,Ripley County, Missouri
+0500000US29183,146631,1169,St. Charles County, Missouri
+0500000US29185,4139,154,St. Clair County, Missouri
+0500000US29186,7121,308,Ste. Genevieve County, Missouri
+0500000US29187,24898,544,St. Francois County, Missouri
+0500000US29189,405984,1433,St. Louis County, Missouri
+0500000US29195,8272,243,Saline County, Missouri
+0500000US29197,1475,82,Schuyler County, Missouri
+0500000US29199,1768,111,Scotland County, Missouri
+0500000US29201,15230,347,Scott County, Missouri
+0500000US29203,3064,162,Shannon County, Missouri
+0500000US29205,2432,105,Shelby County, Missouri
+0500000US29207,11530,276,Stoddard County, Missouri
+0500000US29209,12783,481,Stone County, Missouri
+0500000US29211,2128,126,Sullivan County, Missouri
+0500000US29213,22272,569,Taney County, Missouri
+0500000US29215,9728,363,Texas County, Missouri
+0500000US29217,8207,227,Vernon County, Missouri
+0500000US29219,12654,317,Warren County, Missouri
+0500000US29221,9231,267,Washington County, Missouri
+0500000US29223,5426,298,Wayne County, Missouri
+0500000US29225,13575,235,Webster County, Missouri
+0500000US29227,859,62,Worth County, Missouri
+0500000US29229,7063,242,Wright County, Missouri
+0500000US29510,141952,1485,St. Louis city, Missouri
+0500000US30001,3992,193,Beaverhead County, Montana
+0500000US30003,3609,134,Big Horn County, Montana
+0500000US30005,2366,98,Blaine County, Montana
+0500000US30007,2364,129,Broadwater County, Montana
+0500000US30009,4524,195,Carbon County, Montana
+0500000US30011,628,89,Carter County, Montana
+0500000US30013,34329,454,Cascade County, Montana
+0500000US30015,2274,77,Chouteau County, Montana
+0500000US30017,4903,162,Custer County, Montana
+0500000US30019,857,78,Daniels County, Montana
+0500000US30021,3930,194,Dawson County, Montana
+0500000US30023,3903,229,Deer Lodge County, Montana
+0500000US30025,1334,76,Fallon County, Montana
+0500000US30027,4912,217,Fergus County, Montana
+0500000US30029,38773,633,Flathead County, Montana
+0500000US30031,43777,446,Gallatin County, Montana
+0500000US30033,438,41,Garfield County, Montana
+0500000US30035,4163,178,Glacier County, Montana
+0500000US30037,351,34,Golden Valley County, Montana
+0500000US30039,1308,115,Granite County, Montana
+0500000US30041,6369,169,Hill County, Montana
+0500000US30043,4484,123,Jefferson County, Montana
+0500000US30045,906,57,Judith Basin County, Montana
+0500000US30047,11802,237,Lake County, Montana
+0500000US30049,27893,389,Lewis and Clark County, Montana
+0500000US30051,895,74,Liberty County, Montana
+0500000US30053,8122,349,Lincoln County, Montana
+0500000US30055,723,67,McCone County, Montana
+0500000US30057,3570,214,Madison County, Montana
+0500000US30059,702,83,Meagher County, Montana
+0500000US30061,1786,96,Mineral County, Montana
+0500000US30063,49313,600,Missoula County, Montana
+0500000US30065,2181,126,Musselshell County, Montana
+0500000US30067,7782,227,Park County, Montana
+0500000US30069,204,35,Petroleum County, Montana
+0500000US30071,1710,117,Phillips County, Montana
+0500000US30073,2103,102,Pondera County, Montana
+0500000US30075,737,67,Powder River County, Montana
+0500000US30077,2426,152,Powell County, Montana
+0500000US30079,518,57,Prairie County, Montana
+0500000US30081,17354,382,Ravalli County, Montana
+0500000US30083,4535,185,Richland County, Montana
+0500000US30085,3150,92,Roosevelt County, Montana
+0500000US30087,3166,141,Rosebud County, Montana
+0500000US30089,5036,206,Sanders County, Montana
+0500000US30091,1639,88,Sheridan County, Montana
+0500000US30093,14960,368,Silver Bow County, Montana
+0500000US30095,3761,149,Stillwater County, Montana
+0500000US30097,1566,94,Sweet Grass County, Montana
+0500000US30099,2464,88,Teton County, Montana
+0500000US30101,1867,131,Toole County, Montana
+0500000US30103,351,63,Treasure County, Montana
+0500000US30105,3386,156,Valley County, Montana
+0500000US30107,792,77,Wheatland County, Montana
+0500000US30109,498,43,Wibaux County, Montana
+0500000US30111,66385,596,Yellowstone County, Montana
+0500000US31001,12712,290,Adams County, Nebraska
+0500000US31003,2714,102,Antelope County, Nebraska
+0500000US31005,197,28,Arthur County, Nebraska
+0500000US31007,283,33,Banner County, Nebraska
+0500000US31009,213,25,Blaine County, Nebraska
+0500000US31011,2311,77,Boone County, Nebraska
+0500000US31013,4743,156,Box Butte County, Nebraska
+0500000US31015,904,66,Boyd County, Nebraska
+0500000US31017,1387,134,Brown County, Nebraska
+0500000US31019,19062,328,Buffalo County, Nebraska
+0500000US31021,2856,108,Burt County, Nebraska
+0500000US31023,3363,121,Butler County, Nebraska
+0500000US31025,9945,223,Cass County, Nebraska
+0500000US31027,3506,120,Cedar County, Nebraska
+0500000US31029,1679,89,Chase County, Nebraska
+0500000US31031,2537,152,Cherry County, Nebraska
+0500000US31033,4395,135,Cheyenne County, Nebraska
+0500000US31035,2539,82,Clay County, Nebraska
+0500000US31037,3731,124,Colfax County, Nebraska
+0500000US31039,3727,106,Cuming County, Nebraska
+0500000US31041,4862,136,Custer County, Nebraska
+0500000US31043,7404,179,Dakota County, Nebraska
+0500000US31045,3525,201,Dawes County, Nebraska
+0500000US31047,8965,213,Dawson County, Nebraska
+0500000US31049,830,67,Deuel County, Nebraska
+0500000US31051,2352,62,Dixon County, Nebraska
+0500000US31053,15261,277,Dodge County, Nebraska
+0500000US31055,218061,919,Douglas County, Nebraska
+0500000US31057,872,80,Dundy County, Nebraska
+0500000US31059,2510,82,Fillmore County, Nebraska
+0500000US31061,1377,56,Franklin County, Nebraska
+0500000US31063,1135,58,Frontier County, Nebraska
+0500000US31065,2128,86,Furnas County, Nebraska
+0500000US31067,8979,217,Gage County, Nebraska
+0500000US31069,868,63,Garden County, Nebraska
+0500000US31071,884,78,Garfield County, Nebraska
+0500000US31073,942,77,Gosper County, Nebraska
+0500000US31075,288,29,Grant County, Nebraska
+0500000US31077,1019,49,Greeley County, Nebraska
+0500000US31079,23096,342,Hall County, Nebraska
+0500000US31081,3713,123,Hamilton County, Nebraska
+0500000US31083,1521,72,Harlan County, Nebraska
+0500000US31085,403,40,Hayes County, Nebraska
+0500000US31087,1243,73,Hitchcock County, Nebraska
+0500000US31089,4487,141,Holt County, Nebraska
+0500000US31091,318,49,Hooker County, Nebraska
+0500000US31093,2720,84,Howard County, Nebraska
+0500000US31095,3302,122,Jefferson County, Nebraska
+0500000US31097,1809,94,Johnson County, Nebraska
+0500000US31099,2666,112,Kearney County, Nebraska
+0500000US31101,3882,186,Keith County, Nebraska
+0500000US31103,304,37,Keya Paha County, Nebraska
+0500000US31105,1577,96,Kimball County, Nebraska
+0500000US31107,3586,122,Knox County, Nebraska
+0500000US31109,124324,835,Lancaster County, Nebraska
+0500000US31111,14856,314,Lincoln County, Nebraska
+0500000US31113,347,33,Logan County, Nebraska
+0500000US31115,294,40,Loup County, Nebraska
+0500000US31117,191,27,McPherson County, Nebraska
+0500000US31119,14205,232,Madison County, Nebraska
+0500000US31121,3373,89,Merrick County, Nebraska
+0500000US31123,1954,89,Morrill County, Nebraska
+0500000US31125,1546,87,Nance County, Nebraska
+0500000US31127,2977,135,Nemaha County, Nebraska
+0500000US31129,1867,99,Nuckolls County, Nebraska
+0500000US31131,6510,155,Otoe County, Nebraska
+0500000US31133,1222,71,Pawnee County, Nebraska
+0500000US31135,1228,51,Perkins County, Nebraska
+0500000US31137,3905,121,Phelps County, Nebraska
+0500000US31139,3022,65,Pierce County, Nebraska
+0500000US31141,12947,252,Platte County, Nebraska
+0500000US31143,2052,96,Polk County, Nebraska
+0500000US31145,4519,203,Red Willow County, Nebraska
+0500000US31147,3704,173,Richardson County, Nebraska
+0500000US31149,623,50,Rock County, Nebraska
+0500000US31151,5157,174,Saline County, Nebraska
+0500000US31153,66260,413,Sarpy County, Nebraska
+0500000US31155,8501,196,Saunders County, Nebraska
+0500000US31157,14732,270,Scotts Bluff County, Nebraska
+0500000US31159,6600,168,Seward County, Nebraska
+0500000US31161,2273,120,Sheridan County, Nebraska
+0500000US31163,1368,83,Sherman County, Nebraska
+0500000US31165,544,59,Sioux County, Nebraska
+0500000US31167,2418,99,Stanton County, Nebraska
+0500000US31169,2244,90,Thayer County, Nebraska
+0500000US31171,277,35,Thomas County, Nebraska
+0500000US31173,2176,40,Thurston County, Nebraska
+0500000US31175,1865,80,Valley County, Nebraska
+0500000US31177,8185,148,Washington County, Nebraska
+0500000US31179,3708,135,Wayne County, Nebraska
+0500000US31181,1507,76,Webster County, Nebraska
+0500000US31183,346,34,Wheeler County, Nebraska
+0500000US31185,5656,144,York County, Nebraska
+0500000US32001,9940,210,Churchill County, Nevada
+0500000US32003,783524,3108,Clark County, Nevada
+0500000US32005,20741,294,Douglas County, Nevada
+0500000US32007,18065,389,Elko County, Nevada
+0500000US32009,491,84,Esmeralda County, Nevada
+0500000US32011,774,91,Eureka County, Nevada
+0500000US32013,6500,219,Humboldt County, Nevada
+0500000US32015,2198,197,Lander County, Nevada
+0500000US32017,2018,219,Lincoln County, Nevada
+0500000US32019,21189,391,Lyon County, Nevada
+0500000US32021,2048,159,Mineral County, Nevada
+0500000US32023,19088,499,Nye County, Nevada
+0500000US32027,1948,157,Pershing County, Nevada
+0500000US32029,1627,169,Storey County, Nevada
+0500000US32031,182180,919,Washoe County, Nevada
+0500000US32033,3516,199,White Pine County, Nevada
+0500000US32510,22755,308,Carson City, Nevada
+0500000US33001,25052,583,Belknap County, New Hampshire
+0500000US33003,21456,633,Carroll County, New Hampshire
+0500000US33005,30141,499,Cheshire County, New Hampshire
+0500000US33007,13768,332,Coos County, New Hampshire
+0500000US33009,34727,694,Grafton County, New Hampshire
+0500000US33011,161086,838,Hillsborough County, New Hampshire
+0500000US33013,58452,475,Merrimack County, New Hampshire
+0500000US33015,121045,820,Rockingham County, New Hampshire
+0500000US33017,48982,560,Strafford County, New Hampshire
+0500000US33019,17328,436,Sullivan County, New Hampshire
+0500000US34001,99850,1098,Atlantic County, New Jersey
+0500000US34003,339856,1049,Bergen County, New Jersey
+0500000US34005,166391,1173,Burlington County, New Jersey
+0500000US34007,187383,1155,Camden County, New Jersey
+0500000US34009,40171,786,Cape May County, New Jersey
+0500000US34011,50729,583,Cumberland County, New Jersey
+0500000US34013,285908,1230,Essex County, New Jersey
+0500000US34015,104908,722,Gloucester County, New Jersey
+0500000US34017,258591,1183,Hudson County, New Jersey
+0500000US34019,47175,460,Hunterdon County, New Jersey
+0500000US34021,129936,1006,Mercer County, New Jersey
+0500000US34023,285005,1074,Middlesex County, New Jersey
+0500000US34025,235362,1187,Monmouth County, New Jersey
+0500000US34027,181884,1028,Morris County, New Jersey
+0500000US34029,226160,1486,Ocean County, New Jersey
+0500000US34031,165429,813,Passaic County, New Jersey
+0500000US34033,23933,407,Salem County, New Jersey
+0500000US34035,118193,783,Somerset County, New Jersey
+0500000US34037,53322,709,Sussex County, New Jersey
+0500000US34039,190101,917,Union County, New Jersey
+0500000US34041,41587,513,Warren County, New Jersey
+0500000US35001,267699,1494,Bernalillo County, New Mexico
+0500000US35003,1325,157,Catron County, New Mexico
+0500000US35005,23284,431,Chaves County, New Mexico
+0500000US35006,8708,335,Cibola County, New Mexico
+0500000US35007,5853,262,Colfax County, New Mexico
+0500000US35009,18548,365,Curry County, New Mexico
+0500000US35011,672,95,De Baca County, New Mexico
+0500000US35013,77842,932,Doña Ana County, New Mexico
+0500000US35015,21251,396,Eddy County, New Mexico
+0500000US35017,11851,384,Grant County, New Mexico
+0500000US35019,1384,201,Guadalupe County, New Mexico
+0500000US35021,211,36,Harding County, New Mexico
+0500000US35023,1679,131,Hidalgo County, New Mexico
+0500000US35025,22523,400,Lea County, New Mexico
+0500000US35027,7566,474,Lincoln County, New Mexico
+0500000US35028,7931,158,Los Alamos County, New Mexico
+0500000US35029,8904,323,Luna County, New Mexico
+0500000US35031,20942,334,McKinley County, New Mexico
+0500000US35033,1713,179,Mora County, New Mexico
+0500000US35035,23634,627,Otero County, New Mexico
+0500000US35037,3040,216,Quay County, New Mexico
+0500000US35039,12730,406,Rio Arriba County, New Mexico
+0500000US35041,6814,298,Roosevelt County, New Mexico
+0500000US35043,51001,561,Sandoval County, New Mexico
+0500000US35045,43387,489,San Juan County, New Mexico
+0500000US35047,11609,443,San Miguel County, New Mexico
+0500000US35049,61921,713,Santa Fe County, New Mexico
+0500000US35051,5555,281,Sierra County, New Mexico
+0500000US35053,4520,337,Socorro County, New Mexico
+0500000US35055,12103,490,Taos County, New Mexico
+0500000US35057,5644,277,Torrance County, New Mexico
+0500000US35059,1395,140,Union County, New Mexico
+0500000US35061,27010,482,Valencia County, New Mexico
+0500000US36001,126540,951,Albany County, New York
+0500000US36003,17948,351,Allegany County, New York
+0500000US36005,503829,1325,Bronx County, New York
+0500000US36007,78549,784,Broome County, New York
+0500000US36009,31779,318,Cattaraugus County, New York
+0500000US36011,31221,485,Cayuga County, New York
+0500000US36013,53075,619,Chautauqua County, New York
+0500000US36015,33989,525,Chemung County, New York
+0500000US36017,20697,344,Chenango County, New York
+0500000US36019,31301,553,Clinton County, New York
+0500000US36021,24966,497,Columbia County, New York
+0500000US36023,17745,397,Cortland County, New York
+0500000US36025,18968,485,Delaware County, New York
+0500000US36027,108413,900,Dutchess County, New York
+0500000US36029,389585,1634,Erie County, New York
+0500000US36031,15790,448,Essex County, New York
+0500000US36033,19015,375,Franklin County, New York
+0500000US36035,22557,505,Fulton County, New York
+0500000US36037,23759,339,Genesee County, New York
+0500000US36039,17100,457,Greene County, New York
+0500000US36041,1157,105,Hamilton County, New York
+0500000US36043,24524,431,Herkimer County, New York
+0500000US36045,42734,711,Jefferson County, New York
+0500000US36047,958567,2485,Kings County, New York
+0500000US36049,10247,231,Lewis County, New York
+0500000US36051,24176,400,Livingston County, New York
+0500000US36053,25877,574,Madison County, New York
+0500000US36055,301948,1547,Monroe County, New York
+0500000US36057,19660,291,Montgomery County, New York
+0500000US36059,446977,1301,Nassau County, New York
+0500000US36061,759460,4629,New York County, New York
+0500000US36063,88519,733,Niagara County, New York
+0500000US36065,89729,797,Oneida County, New York
+0500000US36067,185324,1191,Onondaga County, New York
+0500000US36069,44787,541,Ontario County, New York
+0500000US36071,128016,950,Orange County, New York
+0500000US36073,16563,340,Orleans County, New York
+0500000US36075,46079,691,Oswego County, New York
+0500000US36077,23409,458,Otsego County, New York
+0500000US36079,34854,500,Putnam County, New York
+0500000US36081,778932,2366,Queens County, New York
+0500000US36083,64906,574,Rensselaer County, New York
+0500000US36085,166246,1095,Richmond County, New York
+0500000US36087,100438,598,Rockland County, New York
+0500000US36089,41933,533,St. Lawrence County, New York
+0500000US36091,94406,839,Saratoga County, New York
+0500000US36093,54302,825,Schenectady County, New York
+0500000US36095,12559,322,Schoharie County, New York
+0500000US36097,7324,214,Schuyler County, New York
+0500000US36099,13564,289,Seneca County, New York
+0500000US36101,39861,451,Steuben County, New York
+0500000US36103,489301,2144,Suffolk County, New York
+0500000US36105,28184,635,Sullivan County, New York
+0500000US36107,20030,356,Tioga County, New York
+0500000US36109,39618,531,Tompkins County, New York
+0500000US36111,69320,753,Ulster County, New York
+0500000US36113,28015,428,Warren County, New York
+0500000US36115,24014,435,Washington County, New York
+0500000US36117,36720,454,Wayne County, New York
+0500000US36119,349292,1512,Westchester County, New York
+0500000US36121,15917,245,Wyoming County, New York
+0500000US36123,8919,351,Yates County, New York
+0500000US37001,64439,650,Alamance County, North Carolina
+0500000US37003,14169,346,Alexander County, North Carolina
+0500000US37005,4920,261,Alleghany County, North Carolina
+0500000US37007,9521,393,Anson County, North Carolina
+0500000US37009,11938,469,Ashe County, North Carolina
+0500000US37011,6551,419,Avery County, North Carolina
+0500000US37013,19701,507,Beaufort County, North Carolina
+0500000US37015,7909,321,Bertie County, North Carolina
+0500000US37017,13636,433,Bladen County, North Carolina
+0500000US37019,56056,940,Brunswick County, North Carolina
+0500000US37021,107479,1260,Buncombe County, North Carolina
+0500000US37023,35156,684,Burke County, North Carolina
+0500000US37025,72238,698,Cabarrus County, North Carolina
+0500000US37027,32864,569,Caldwell County, North Carolina
+0500000US37029,3933,160,Camden County, North Carolina
+0500000US37031,29755,495,Carteret County, North Carolina
+0500000US37033,9145,302,Caswell County, North Carolina
+0500000US37035,62319,597,Catawba County, North Carolina
+0500000US37037,29033,498,Chatham County, North Carolina
+0500000US37039,12471,439,Cherokee County, North Carolina
+0500000US37041,6133,286,Chowan County, North Carolina
+0500000US37043,4996,319,Clay County, North Carolina
+0500000US37045,35638,620,Cleveland County, North Carolina
+0500000US37047,21580,436,Columbus County, North Carolina
+0500000US37049,41226,632,Craven County, North Carolina
+0500000US37051,125427,954,Cumberland County, North Carolina
+0500000US37053,10522,216,Currituck County, North Carolina
+0500000US37055,15529,685,Dare County, North Carolina
+0500000US37057,66653,807,Davidson County, North Carolina
+0500000US37059,16405,360,Davie County, North Carolina
+0500000US37061,21466,537,Duplin County, North Carolina
+0500000US37063,125953,1091,Durham County, North Carolina
+0500000US37065,21151,407,Edgecombe County, North Carolina
+0500000US37067,146816,1143,Forsyth County, North Carolina
+0500000US37069,25381,474,Franklin County, North Carolina
+0500000US37071,83735,698,Gaston County, North Carolina
+0500000US37073,4638,218,Gates County, North Carolina
+0500000US37075,3393,211,Graham County, North Carolina
+0500000US37077,21400,433,Granville County, North Carolina
+0500000US37079,7164,248,Greene County, North Carolina
+0500000US37081,203987,1492,Guilford County, North Carolina
+0500000US37083,21017,478,Halifax County, North Carolina
+0500000US37085,45416,522,Harnett County, North Carolina
+0500000US37087,26653,594,Haywood County, North Carolina
+0500000US37089,49221,624,Henderson County, North Carolina
+0500000US37091,8845,273,Hertford County, North Carolina
+0500000US37093,17799,326,Hoke County, North Carolina
+0500000US37095,1947,177,Hyde County, North Carolina
+0500000US37097,66369,597,Iredell County, North Carolina
+0500000US37099,16773,642,Jackson County, North Carolina
+0500000US37101,68968,667,Johnston County, North Carolina
+0500000US37103,4045,157,Jones County, North Carolina
+0500000US37105,21894,393,Lee County, North Carolina
+0500000US37107,23148,471,Lenoir County, North Carolina
+0500000US37109,32894,482,Lincoln County, North Carolina
+0500000US37111,18173,404,McDowell County, North Carolina
+0500000US37113,15921,440,Macon County, North Carolina
+0500000US37115,8403,302,Madison County, North Carolina
+0500000US37117,9378,286,Martin County, North Carolina
+0500000US37119,411097,1769,Mecklenburg County, North Carolina
+0500000US37121,6344,318,Mitchell County, North Carolina
+0500000US37123,10195,386,Montgomery County, North Carolina
+0500000US37125,39821,741,Moore County, North Carolina
+0500000US37127,37011,648,Nash County, North Carolina
+0500000US37129,95638,958,New Hanover County, North Carolina
+0500000US37131,8547,336,Northampton County, North Carolina
+0500000US37133,64386,1313,Onslow County, North Carolina
+0500000US37135,53376,808,Orange County, North Carolina
+0500000US37137,5416,204,Pamlico County, North Carolina
+0500000US37139,14697,344,Pasquotank County, North Carolina
+0500000US37141,21740,454,Pender County, North Carolina
+0500000US37143,5936,241,Perquimans County, North Carolina
+0500000US37145,15896,381,Person County, North Carolina
+0500000US37147,69799,808,Pitt County, North Carolina
+0500000US37149,9071,298,Polk County, North Carolina
+0500000US37151,56541,653,Randolph County, North Carolina
+0500000US37153,18380,433,Richmond County, North Carolina
+0500000US37155,45927,451,Robeson County, North Carolina
+0500000US37157,37388,600,Rockingham County, North Carolina
+0500000US37159,52843,681,Rowan County, North Carolina
+0500000US37161,26683,623,Rutherford County, North Carolina
+0500000US37163,23416,539,Sampson County, North Carolina
+0500000US37165,12922,216,Scotland County, North Carolina
+0500000US37167,23332,441,Stanly County, North Carolina
+0500000US37169,19578,423,Stokes County, North Carolina
+0500000US37171,29153,405,Surry County, North Carolina
+0500000US37173,5620,292,Swain County, North Carolina
+0500000US37175,14567,494,Transylvania County, North Carolina
+0500000US37177,1594,212,Tyrrell County, North Carolina
+0500000US37179,76346,604,Union County, North Carolina
+0500000US37181,16875,375,Vance County, North Carolina
+0500000US37183,400172,1973,Wake County, North Carolina
+0500000US37185,7786,291,Warren County, North Carolina
+0500000US37187,4977,293,Washington County, North Carolina
+0500000US37189,21077,588,Watauga County, North Carolina
+0500000US37191,48343,649,Wayne County, North Carolina
+0500000US37193,28753,531,Wilkes County, North Carolina
+0500000US37195,32014,521,Wilson County, North Carolina
+0500000US37197,15425,347,Yadkin County, North Carolina
+0500000US37199,7510,291,Yancey County, North Carolina
+0500000US38001,1035,76,Adams County, North Dakota
+0500000US38003,5074,184,Barnes County, North Dakota
+0500000US38005,2248,73,Benson County, North Dakota
+0500000US38007,383,43,Billings County, North Dakota
+0500000US38009,2992,158,Bottineau County, North Dakota
+0500000US38011,1350,71,Bowman County, North Dakota
+0500000US38013,905,65,Burke County, North Dakota
+0500000US38015,39507,511,Burleigh County, North Dakota
+0500000US38017,75843,754,Cass County, North Dakota
+0500000US38019,1737,97,Cavalier County, North Dakota
+0500000US38021,2119,103,Dickey County, North Dakota
+0500000US38023,1061,88,Divide County, North Dakota
+0500000US38025,1692,87,Dunn County, North Dakota
+0500000US38027,1062,70,Eddy County, North Dakota
+0500000US38029,1585,102,Emmons County, North Dakota
+0500000US38031,1423,79,Foster County, North Dakota
+0500000US38033,842,59,Golden Valley County, North Dakota
+0500000US38035,30502,447,Grand Forks County, North Dakota
+0500000US38037,1074,73,Grant County, North Dakota
+0500000US38039,1089,77,Griggs County, North Dakota
+0500000US38041,1073,69,Hettinger County, North Dakota
+0500000US38043,1092,83,Kidder County, North Dakota
+0500000US38045,1822,85,LaMoure County, North Dakota
+0500000US38047,849,62,Logan County, North Dakota
+0500000US38049,2594,94,McHenry County, North Dakota
+0500000US38051,1291,68,McIntosh County, North Dakota
+0500000US38053,4302,252,McKenzie County, North Dakota
+0500000US38055,4334,141,McLean County, North Dakota
+0500000US38057,3709,186,Mercer County, North Dakota
+0500000US38059,13565,383,Morton County, North Dakota
+0500000US38061,3360,133,Mountrail County, North Dakota
+0500000US38063,1467,86,Nelson County, North Dakota
+0500000US38065,738,60,Oliver County, North Dakota
+0500000US38067,3158,127,Pembina County, North Dakota
+0500000US38069,1908,103,Pierce County, North Dakota
+0500000US38071,4828,212,Ramsey County, North Dakota
+0500000US38073,2371,87,Ransom County, North Dakota
+0500000US38075,950,70,Renville County, North Dakota
+0500000US38077,6777,186,Richland County, North Dakota
+0500000US38079,4608,125,Rolette County, North Dakota
+0500000US38081,1864,97,Sargent County, North Dakota
+0500000US38083,731,54,Sheridan County, North Dakota
+0500000US38085,1112,34,Sioux County, North Dakota
+0500000US38087,326,32,Slope County, North Dakota
+0500000US38089,12524,315,Stark County, North Dakota
+0500000US38091,777,55,Steele County, North Dakota
+0500000US38093,8908,275,Stutsman County, North Dakota
+0500000US38095,1058,87,Towner County, North Dakota
+0500000US38097,3383,116,Traill County, North Dakota
+0500000US38099,4780,148,Walsh County, North Dakota
+0500000US38101,28277,668,Ward County, North Dakota
+0500000US38103,1943,117,Wells County, North Dakota
+0500000US38105,14320,636,Williams County, North Dakota
+0500000US39001,10673,327,Adams County, Ohio
+0500000US39003,40650,469,Allen County, Ohio
+0500000US39005,20417,288,Ashland County, Ohio
+0500000US39007,37832,548,Ashtabula County, Ohio
+0500000US39009,22557,494,Athens County, Ohio
+0500000US39011,18888,261,Auglaize County, Ohio
+0500000US39013,25919,481,Belmont County, Ohio
+0500000US39015,17829,355,Brown County, Ohio
+0500000US39017,139113,864,Butler County, Ohio
+0500000US39019,11298,333,Carroll County, Ohio
+0500000US39021,15159,334,Champaign County, Ohio
+0500000US39023,54696,629,Clark County, Ohio
+0500000US39025,78009,507,Clermont County, Ohio
+0500000US39027,16528,307,Clinton County, Ohio
+0500000US39029,41537,552,Columbiana County, Ohio
+0500000US39031,14476,280,Coshocton County, Ohio
+0500000US39033,17782,329,Crawford County, Ohio
+0500000US39035,540965,2090,Cuyahoga County, Ohio
+0500000US39037,20861,321,Darke County, Ohio
+0500000US39039,15297,267,Defiance County, Ohio
+0500000US39041,69985,446,Delaware County, Ohio
+0500000US39043,31183,528,Erie County, Ohio
+0500000US39045,56339,622,Fairfield County, Ohio
+0500000US39047,11773,239,Fayette County, Ohio
+0500000US39049,511447,2131,Franklin County, Ohio
+0500000US39051,16506,209,Fulton County, Ohio
+0500000US39053,11588,358,Gallia County, Ohio
+0500000US39055,35298,383,Geauga County, Ohio
+0500000US39057,65604,690,Greene County, Ohio
+0500000US39059,16220,390,Guernsey County, Ohio
+0500000US39061,341873,1658,Hamilton County, Ohio
+0500000US39063,31937,450,Hancock County, Ohio
+0500000US39065,11678,318,Hardin County, Ohio
+0500000US39067,6223,208,Harrison County, Ohio
+0500000US39069,10992,236,Henry County, Ohio
+0500000US39071,16772,341,Highland County, Ohio
+0500000US39073,11286,330,Hocking County, Ohio
+0500000US39075,12342,294,Holmes County, Ohio
+0500000US39077,22935,361,Huron County, Ohio
+0500000US39079,12780,340,Jackson County, Ohio
+0500000US39081,27428,455,Jefferson County, Ohio
+0500000US39083,23248,361,Knox County, Ohio
+0500000US39085,96361,699,Lake County, Ohio
+0500000US39087,23221,462,Lawrence County, Ohio
+0500000US39089,64035,637,Licking County, Ohio
+0500000US39091,18677,376,Logan County, Ohio
+0500000US39093,120281,700,Lorain County, Ohio
+0500000US39095,179930,1138,Lucas County, Ohio
+0500000US39097,15013,332,Madison County, Ohio
+0500000US39099,98472,667,Mahoning County, Ohio
+0500000US39101,24737,397,Marion County, Ohio
+0500000US39103,69007,485,Medina County, Ohio
+0500000US39105,9045,267,Meigs County, Ohio
+0500000US39107,16234,270,Mercer County, Ohio
+0500000US39109,41043,455,Miami County, Ohio
+0500000US39111,5745,224,Monroe County, Ohio
+0500000US39113,224328,1502,Montgomery County, Ohio
+0500000US39115,6108,208,Morgan County, Ohio
+0500000US39117,12922,311,Morrow County, Ohio
+0500000US39119,33878,494,Muskingum County, Ohio
+0500000US39121,5067,250,Noble County, Ohio
+0500000US39123,18051,359,Ottawa County, Ohio
+0500000US39125,7705,194,Paulding County, Ohio
+0500000US39127,13500,314,Perry County, Ohio
+0500000US39129,19710,335,Pickaway County, Ohio
+0500000US39131,10959,382,Pike County, Ohio
+0500000US39133,61817,633,Portage County, Ohio
+0500000US39135,16251,264,Preble County, Ohio
+0500000US39137,13327,168,Putnam County, Ohio
+0500000US39139,48449,630,Richland County, Ohio
+0500000US39141,28802,469,Ross County, Ohio
+0500000US39143,23574,423,Sandusky County, Ohio
+0500000US39145,29858,498,Scioto County, Ohio
+0500000US39147,21648,355,Seneca County, Ohio
+0500000US39149,18608,277,Shelby County, Ohio
+0500000US39151,153460,932,Stark County, Ohio
+0500000US39153,224726,1131,Summit County, Ohio
+0500000US39155,85621,891,Trumbull County, Ohio
+0500000US39157,36631,452,Tuscarawas County, Ohio
+0500000US39159,20212,221,Union County, Ohio
+0500000US39161,11544,193,Van Wert County, Ohio
+0500000US39163,5140,211,Vinton County, Ohio
+0500000US39165,82957,816,Warren County, Ohio
+0500000US39167,25197,420,Washington County, Ohio
+0500000US39169,43824,452,Wayne County, Ohio
+0500000US39171,15090,304,Williams County, Ohio
+0500000US39173,50589,665,Wood County, Ohio
+0500000US39175,9081,223,Wyandot County, Ohio
+0500000US40001,7733,181,Adair County, Oklahoma
+0500000US40003,1870,103,Alfalfa County, Oklahoma
+0500000US40005,5284,151,Atoka County, Oklahoma
+0500000US40007,1971,92,Beaver County, Oklahoma
+0500000US40009,7578,331,Beckham County, Oklahoma
+0500000US40011,3898,374,Blaine County, Oklahoma
+0500000US40013,17253,236,Bryan County, Oklahoma
+0500000US40015,10320,203,Caddo County, Oklahoma
+0500000US40017,44906,429,Canadian County, Oklahoma
+0500000US40019,18339,277,Carter County, Oklahoma
+0500000US40021,16665,313,Cherokee County, Oklahoma
+0500000US40023,5971,112,Choctaw County, Oklahoma
+0500000US40025,977,68,Cimarron County, Oklahoma
+0500000US40027,106172,813,Cleveland County, Oklahoma
+0500000US40029,2227,75,Coal County, Oklahoma
+0500000US40031,42842,763,Comanche County, Oklahoma
+0500000US40033,2195,124,Cotton County, Oklahoma
+0500000US40035,5422,175,Craig County, Oklahoma
+0500000US40037,26427,266,Creek County, Oklahoma
+0500000US40039,10653,333,Custer County, Oklahoma
+0500000US40041,16739,277,Delaware County, Oklahoma
+0500000US40043,1689,92,Dewey County, Oklahoma
+0500000US40045,1614,84,Ellis County, Oklahoma
+0500000US40047,23541,448,Garfield County, Oklahoma
+0500000US40049,10447,196,Garvin County, Oklahoma
+0500000US40051,19857,236,Grady County, Oklahoma
+0500000US40053,1736,92,Grant County, Oklahoma
+0500000US40055,2054,146,Greer County, Oklahoma
+0500000US40057,1113,81,Harmon County, Oklahoma
+0500000US40059,1258,79,Harper County, Oklahoma
+0500000US40061,4931,108,Haskell County, Oklahoma
+0500000US40063,4132,143,Hughes County, Oklahoma
+0500000US40065,9762,309,Jackson County, Oklahoma
+0500000US40067,2371,87,Jefferson County, Oklahoma
+0500000US40069,4267,129,Johnston County, Oklahoma
+0500000US40071,17610,312,Kay County, Oklahoma
+0500000US40073,5609,230,Kingfisher County, Oklahoma
+0500000US40075,3571,164,Kiowa County, Oklahoma
+0500000US40077,4088,139,Latimer County, Oklahoma
+0500000US40079,18261,244,Le Flore County, Oklahoma
+0500000US40081,12763,209,Lincoln County, Oklahoma
+0500000US40083,15512,359,Logan County, Oklahoma
+0500000US40085,3268,115,Love County, Oklahoma
+0500000US40087,14428,211,McClain County, Oklahoma
+0500000US40089,12646,211,McCurtain County, Oklahoma
+0500000US40091,8327,292,McIntosh County, Oklahoma
+0500000US40093,3123,107,Major County, Oklahoma
+0500000US40095,6195,166,Marshall County, Oklahoma
+0500000US40097,15983,242,Mayes County, Oklahoma
+0500000US40099,5238,195,Murray County, Oklahoma
+0500000US40101,26234,364,Muskogee County, Oklahoma
+0500000US40103,4515,124,Noble County, Oklahoma
+0500000US40105,4099,103,Nowata County, Oklahoma
+0500000US40107,3976,195,Okfuskee County, Oklahoma
+0500000US40109,301570,1347,Oklahoma County, Oklahoma
+0500000US40111,14724,249,Okmulgee County, Oklahoma
+0500000US40113,18263,234,Osage County, Oklahoma
+0500000US40115,11847,184,Ottawa County, Oklahoma
+0500000US40117,6179,105,Pawnee County, Oklahoma
+0500000US40119,30788,692,Payne County, Oklahoma
+0500000US40121,17816,246,Pittsburg County, Oklahoma
+0500000US40123,14278,242,Pontotoc County, Oklahoma
+0500000US40125,25917,313,Pottawatomie County, Oklahoma
+0500000US40127,4477,116,Pushmataha County, Oklahoma
+0500000US40129,1377,70,Roger Mills County, Oklahoma
+0500000US40131,34755,264,Rogers County, Oklahoma
+0500000US40133,9317,168,Seminole County, Oklahoma
+0500000US40135,15474,249,Sequoyah County, Oklahoma
+0500000US40137,16720,261,Stephens County, Oklahoma
+0500000US40139,6768,244,Texas County, Oklahoma
+0500000US40141,2807,158,Tillman County, Oklahoma
+0500000US40143,252661,741,Tulsa County, Oklahoma
+0500000US40145,29208,225,Wagoner County, Oklahoma
+0500000US40147,20455,257,Washington County, Oklahoma
+0500000US40149,4224,168,Washita County, Oklahoma
+0500000US40151,3281,176,Woods County, Oklahoma
+0500000US40153,7495,294,Woodward County, Oklahoma
+0500000US41001,6921,257,Baker County, Oregon
+0500000US41003,35718,469,Benton County, Oregon
+0500000US41005,157408,725,Clackamas County, Oregon
+0500000US41007,15800,398,Clatsop County, Oregon
+0500000US41009,19671,298,Columbia County, Oregon
+0500000US41011,27025,485,Coos County, Oregon
+0500000US41013,9588,264,Crook County, Oregon
+0500000US41015,10546,412,Curry County, Oregon
+0500000US41017,74397,897,Deschutes County, Oregon
+0500000US41019,45456,535,Douglas County, Oregon
+0500000US41021,842,57,Gilliam County, Oregon
+0500000US41023,3381,139,Grant County, Oregon
+0500000US41025,3244,175,Harney County, Oregon
+0500000US41027,8600,352,Hood River County, Oregon
+0500000US41029,88241,655,Jackson County, Oregon
+0500000US41031,8094,217,Jefferson County, Oregon
+0500000US41033,36367,490,Josephine County, Oregon
+0500000US41035,27886,460,Klamath County, Oregon
+0500000US41037,3515,176,Lake County, Oregon
+0500000US41039,152312,728,Lane County, Oregon
+0500000US41041,21298,546,Lincoln County, Oregon
+0500000US41043,47762,464,Linn County, Oregon
+0500000US41045,10062,272,Malheur County, Oregon
+0500000US41047,118038,834,Marion County, Oregon
+0500000US41049,4108,115,Morrow County, Oregon
+0500000US41051,326229,1530,Multnomah County, Oregon
+0500000US41053,30305,439,Polk County, Oregon
+0500000US41055,748,53,Sherman County, Oregon
+0500000US41057,10784,373,Tillamook County, Oregon
+0500000US41059,26908,490,Umatilla County, Oregon
+0500000US41061,10708,226,Union County, Oregon
+0500000US41063,3214,125,Wallowa County, Oregon
+0500000US41065,10305,283,Wasco County, Oregon
+0500000US41067,219053,1123,Washington County, Oregon
+0500000US41069,640,59,Wheeler County, Oregon
+0500000US41071,36808,460,Yamhill County, Oregon
+0500000US42001,39345,379,Adams County, Pennsylvania
+0500000US42003,541541,2193,Allegheny County, Pennsylvania
+0500000US42005,28137,388,Armstrong County, Pennsylvania
+0500000US42007,71167,562,Beaver County, Pennsylvania
+0500000US42009,19882,352,Bedford County, Pennsylvania
+0500000US42011,154712,903,Berks County, Pennsylvania
+0500000US42013,52126,543,Blair County, Pennsylvania
+0500000US42015,25021,312,Bradford County, Pennsylvania
+0500000US42017,238830,998,Bucks County, Pennsylvania
+0500000US42019,76502,656,Butler County, Pennsylvania
+0500000US42021,56674,605,Cambria County, Pennsylvania
+0500000US42023,2184,93,Cameron County, Pennsylvania
+0500000US42025,26043,532,Carbon County, Pennsylvania
+0500000US42027,58201,680,Centre County, Pennsylvania
+0500000US42029,190980,934,Chester County, Pennsylvania
+0500000US42031,16021,295,Clarion County, Pennsylvania
+0500000US42033,31248,471,Clearfield County, Pennsylvania
+0500000US42035,14690,275,Clinton County, Pennsylvania
+0500000US42037,26372,478,Columbia County, Pennsylvania
+0500000US42039,35164,519,Crawford County, Pennsylvania
+0500000US42041,99804,632,Cumberland County, Pennsylvania
+0500000US42043,112212,1873,Dauphin County, Pennsylvania
+0500000US42045,207257,1055,Delaware County, Pennsylvania
+0500000US42047,14020,228,Elk County, Pennsylvania
+0500000US42049,110318,736,Erie County, Pennsylvania
+0500000US42051,54837,623,Fayette County, Pennsylvania
+0500000US42053,1839,233,Forest County, Pennsylvania
+0500000US42055,60438,594,Franklin County, Pennsylvania
+0500000US42057,5989,126,Fulton County, Pennsylvania
+0500000US42059,14230,332,Greene County, Pennsylvania
+0500000US42061,16779,296,Huntingdon County, Pennsylvania
+0500000US42063,33246,567,Indiana County, Pennsylvania
+0500000US42065,18427,247,Jefferson County, Pennsylvania
+0500000US42067,9372,180,Juniata County, Pennsylvania
+0500000US42069,87161,777,Lackawanna County, Pennsylvania
+0500000US42071,201620,826,Lancaster County, Pennsylvania
+0500000US42073,37055,394,Lawrence County, Pennsylvania
+0500000US42075,53579,507,Lebanon County, Pennsylvania
+0500000US42077,138714,644,Lehigh County, Pennsylvania
+0500000US42079,128660,923,Luzerne County, Pennsylvania
+0500000US42081,45608,574,Lycoming County, Pennsylvania
+0500000US42083,17147,375,McKean County, Pennsylvania
+0500000US42085,46340,566,Mercer County, Pennsylvania
+0500000US42087,19043,307,Mifflin County, Pennsylvania
+0500000US42089,57098,983,Monroe County, Pennsylvania
+0500000US42091,316206,1017,Montgomery County, Pennsylvania
+0500000US42093,7404,188,Montour County, Pennsylvania
+0500000US42095,114185,688,Northampton County, Pennsylvania
+0500000US42097,39075,541,Northumberland County, Pennsylvania
+0500000US42099,18231,227,Perry County, Pennsylvania
+0500000US42101,601337,2540,Philadelphia County, Pennsylvania
+0500000US42103,22119,517,Pike County, Pennsylvania
+0500000US42105,6480,137,Potter County, Pennsylvania
+0500000US42107,58749,642,Schuylkill County, Pennsylvania
+0500000US42109,14794,212,Snyder County, Pennsylvania
+0500000US42111,29644,420,Somerset County, Pennsylvania
+0500000US42113,2723,174,Sullivan County, Pennsylvania
+0500000US42115,17235,242,Susquehanna County, Pennsylvania
+0500000US42117,16310,356,Tioga County, Pennsylvania
+0500000US42119,14533,421,Union County, Pennsylvania
+0500000US42121,22050,273,Venango County, Pennsylvania
+0500000US42123,17115,280,Warren County, Pennsylvania
+0500000US42125,84948,701,Washington County, Pennsylvania
+0500000US42127,18841,455,Wayne County, Pennsylvania
+0500000US42129,152283,889,Westmoreland County, Pennsylvania
+0500000US42131,10790,239,Wyoming County, Pennsylvania
+0500000US42133,172421,986,York County, Pennsylvania
+0500000US44001,19217,378,Bristol County, Rhode Island
+0500000US44003,69422,583,Kent County, Rhode Island
+0500000US44005,34777,637,Newport County, Rhode Island
+0500000US44007,237971,1418,Providence County, Rhode Island
+0500000US44009,49102,768,Washington County, Rhode Island
+0500000US45001,9660,347,Abbeville County, South Carolina
+0500000US45003,67598,871,Aiken County, South Carolina
+0500000US45005,3365,155,Allendale County, South Carolina
+0500000US45007,76798,747,Anderson County, South Carolina
+0500000US45009,5334,293,Bamberg County, South Carolina
+0500000US45011,8360,301,Barnwell County, South Carolina
+0500000US45013,71477,971,Beaufort County, South Carolina
+0500000US45015,76881,784,Berkeley County, South Carolina
+0500000US45017,6179,225,Calhoun County, South Carolina
+0500000US45019,159195,1236,Charleston County, South Carolina
+0500000US45021,20699,482,Cherokee County, South Carolina
+0500000US45023,12653,268,Chester County, South Carolina
+0500000US45025,17900,398,Chesterfield County, South Carolina
+0500000US45027,13161,327,Clarendon County, South Carolina
+0500000US45029,15075,372,Colleton County, South Carolina
+0500000US45031,26484,506,Darlington County, South Carolina
+0500000US45033,11029,377,Dillon County, South Carolina
+0500000US45035,55351,722,Dorchester County, South Carolina
+0500000US45037,9176,296,Edgefield County, South Carolina
+0500000US45039,9191,446,Fairfield County, South Carolina
+0500000US45041,52188,750,Florence County, South Carolina
+0500000US45043,25498,588,Georgetown County, South Carolina
+0500000US45045,192975,1092,Greenville County, South Carolina
+0500000US45047,27612,438,Greenwood County, South Carolina
+0500000US45049,6993,307,Hampton County, South Carolina
+0500000US45051,131143,1271,Horry County, South Carolina
+0500000US45053,10269,318,Jasper County, South Carolina
+0500000US45055,24980,458,Kershaw County, South Carolina
+0500000US45057,33899,515,Lancaster County, South Carolina
+0500000US45059,25563,444,Laurens County, South Carolina
+0500000US45061,6423,252,Lee County, South Carolina
+0500000US45063,113104,695,Lexington County, South Carolina
+0500000US45065,3957,217,McCormick County, South Carolina
+0500000US45067,11600,397,Marion County, South Carolina
+0500000US45069,9613,361,Marlboro County, South Carolina
+0500000US45071,14810,399,Newberry County, South Carolina
+0500000US45073,31978,569,Oconee County, South Carolina
+0500000US45075,33060,627,Orangeburg County, South Carolina
+0500000US45077,47934,640,Pickens County, South Carolina
+0500000US45079,151853,1331,Richland County, South Carolina
+0500000US45081,7094,240,Saluda County, South Carolina
+0500000US45083,116645,786,Spartanburg County, South Carolina
+0500000US45085,41776,648,Sumter County, South Carolina
+0500000US45087,11432,342,Union County, South Carolina
+0500000US45089,12686,322,Williamsburg County, South Carolina
+0500000US45091,101211,733,York County, South Carolina
+0500000US46003,1182,93,Aurora County, South Dakota
+0500000US46005,7557,262,Beadle County, South Dakota
+0500000US46007,984,88,Bennett County, South Dakota
+0500000US46009,2536,125,Bon Homme County, South Dakota
+0500000US46011,12896,327,Brookings County, South Dakota
+0500000US46013,16305,307,Brown County, South Dakota
+0500000US46015,2231,108,Brule County, South Dakota
+0500000US46017,564,53,Buffalo County, South Dakota
+0500000US46019,4164,179,Butte County, South Dakota
+0500000US46021,673,48,Campbell County, South Dakota
+0500000US46023,3166,85,Charles Mix County, South Dakota
+0500000US46025,1546,72,Clark County, South Dakota
+0500000US46027,5233,243,Clay County, South Dakota
+0500000US46029,12075,238,Codington County, South Dakota
+0500000US46031,1195,37,Corson County, South Dakota
+0500000US46033,3876,248,Custer County, South Dakota
+0500000US46035,8660,307,Davison County, South Dakota
+0500000US46037,2574,99,Day County, South Dakota
+0500000US46039,1798,99,Deuel County, South Dakota
+0500000US46041,1651,52,Dewey County, South Dakota
+0500000US46043,1220,62,Douglas County, South Dakota
+0500000US46045,1544,91,Edmunds County, South Dakota
+0500000US46047,2986,206,Fall River County, South Dakota
+0500000US46049,895,87,Faulk County, South Dakota
+0500000US46051,3218,171,Grant County, South Dakota
+0500000US46053,1840,78,Gregory County, South Dakota
+0500000US46055,822,60,Haakon County, South Dakota
+0500000US46057,2256,139,Hamlin County, South Dakota
+0500000US46059,1508,89,Hand County, South Dakota
+0500000US46061,1045,47,Hanson County, South Dakota
+0500000US46063,532,49,Harding County, South Dakota
+0500000US46065,7460,217,Hughes County, South Dakota
+0500000US46067,2903,125,Hutchinson County, South Dakota
+0500000US46069,597,56,Hyde County, South Dakota
+0500000US46071,858,79,Jackson County, South Dakota
+0500000US46073,921,63,Jerauld County, South Dakota
+0500000US46075,408,45,Jones County, South Dakota
+0500000US46077,2279,106,Kingsbury County, South Dakota
+0500000US46079,4700,169,Lake County, South Dakota
+0500000US46081,11048,433,Lawrence County, South Dakota
+0500000US46083,19749,262,Lincoln County, South Dakota
+0500000US46085,1397,83,Lyman County, South Dakota
+0500000US46087,2228,152,McCook County, South Dakota
+0500000US46089,1030,78,McPherson County, South Dakota
+0500000US46091,1873,114,Marshall County, South Dakota
+0500000US46093,11027,241,Meade County, South Dakota
+0500000US46095,661,56,Mellette County, South Dakota
+0500000US46097,948,66,Miner County, South Dakota
+0500000US46099,76819,655,Minnehaha County, South Dakota
+0500000US46101,2640,173,Moody County, South Dakota
+0500000US46102,2729,139,Oglala Lakota County, South Dakota
+0500000US46103,44074,522,Pennington County, South Dakota
+0500000US46105,1284,100,Perkins County, South Dakota
+0500000US46107,982,76,Potter County, South Dakota
+0500000US46109,3873,104,Roberts County, South Dakota
+0500000US46111,1010,70,Sanborn County, South Dakota
+0500000US46115,2624,112,Spink County, South Dakota
+0500000US46117,1344,67,Stanley County, South Dakota
+0500000US46119,569,44,Sully County, South Dakota
+0500000US46121,2700,91,Todd County, South Dakota
+0500000US46123,2356,135,Tripp County, South Dakota
+0500000US46125,3498,99,Turner County, South Dakota
+0500000US46127,6619,158,Union County, South Dakota
+0500000US46129,2258,188,Walworth County, South Dakota
+0500000US46135,9445,226,Yankton County, South Dakota
+0500000US46137,754,35,Ziebach County, South Dakota
+0500000US47001,30541,492,Anderson County, Tennessee
+0500000US47003,17029,399,Bedford County, Tennessee
+0500000US47005,6762,251,Benton County, Tennessee
+0500000US47007,4894,180,Bledsoe County, Tennessee
+0500000US47009,50557,600,Blount County, Tennessee
+0500000US47011,40192,612,Bradley County, Tennessee
+0500000US47013,16192,417,Campbell County, Tennessee
+0500000US47015,5488,177,Cannon County, Tennessee
+0500000US47017,10962,275,Carroll County, Tennessee
+0500000US47019,23784,412,Carter County, Tennessee
+0500000US47021,15089,257,Cheatham County, Tennessee
+0500000US47023,6060,211,Chester County, Tennessee
+0500000US47025,13281,284,Claiborne County, Tennessee
+0500000US47027,3039,181,Clay County, Tennessee
+0500000US47029,14060,381,Cocke County, Tennessee
+0500000US47031,21646,445,Coffee County, Tennessee
+0500000US47033,5491,164,Crockett County, Tennessee
+0500000US47035,25801,529,Cumberland County, Tennessee
+0500000US47037,282366,1422,Davidson County, Tennessee
+0500000US47039,4440,249,Decatur County, Tennessee
+0500000US47041,7704,252,DeKalb County, Tennessee
+0500000US47043,19198,412,Dickson County, Tennessee
+0500000US47045,15120,390,Dyer County, Tennessee
+0500000US47047,15596,265,Fayette County, Tennessee
+0500000US47049,7443,264,Fentress County, Tennessee
+0500000US47051,16326,344,Franklin County, Tennessee
+0500000US47053,19320,419,Gibson County, Tennessee
+0500000US47055,11904,311,Giles County, Tennessee
+0500000US47057,8959,236,Grainger County, Tennessee
+0500000US47059,27396,517,Greene County, Tennessee
+0500000US47061,4820,212,Grundy County, Tennessee
+0500000US47063,24456,397,Hamblen County, Tennessee
+0500000US47065,145213,1162,Hamilton County, Tennessee
+0500000US47067,2742,150,Hancock County, Tennessee
+0500000US47069,8891,314,Hardeman County, Tennessee
+0500000US47071,10137,302,Hardin County, Tennessee
+0500000US47073,23135,480,Hawkins County, Tennessee
+0500000US47075,7181,226,Haywood County, Tennessee
+0500000US47077,10711,385,Henderson County, Tennessee
+0500000US47079,13394,360,Henry County, Tennessee
+0500000US47081,8636,325,Hickman County, Tennessee
+0500000US47083,2878,143,Houston County, Tennessee
+0500000US47085,6763,219,Humphreys County, Tennessee
+0500000US47087,4566,165,Jackson County, Tennessee
+0500000US47089,20154,511,Jefferson County, Tennessee
+0500000US47091,6794,301,Johnson County, Tennessee
+0500000US47093,187319,1133,Knox County, Tennessee
+0500000US47095,2243,134,Lake County, Tennessee
+0500000US47097,9675,249,Lauderdale County, Tennessee
+0500000US47099,15960,300,Lawrence County, Tennessee
+0500000US47101,4715,236,Lewis County, Tennessee
+0500000US47103,13548,397,Lincoln County, Tennessee
+0500000US47105,20669,422,Loudon County, Tennessee
+0500000US47107,20804,464,McMinn County, Tennessee
+0500000US47109,10022,295,McNairy County, Tennessee
+0500000US47111,9170,280,Macon County, Tennessee
+0500000US47113,37944,569,Madison County, Tennessee
+0500000US47115,11477,281,Marion County, Tennessee
+0500000US47117,12324,303,Marshall County, Tennessee
+0500000US47119,34688,433,Maury County, Tennessee
+0500000US47121,4938,170,Meigs County, Tennessee
+0500000US47123,17987,417,Monroe County, Tennessee
+0500000US47125,72617,695,Montgomery County, Tennessee
+0500000US47127,2592,152,Moore County, Tennessee
+0500000US47129,7625,291,Morgan County, Tennessee
+0500000US47131,12717,296,Obion County, Tennessee
+0500000US47133,9140,226,Overton County, Tennessee
+0500000US47135,3073,176,Perry County, Tennessee
+0500000US47137,2281,179,Pickett County, Tennessee
+0500000US47139,7383,246,Polk County, Tennessee
+0500000US47141,31424,442,Putnam County, Tennessee
+0500000US47143,12177,477,Rhea County, Tennessee
+0500000US47145,20901,561,Roane County, Tennessee
+0500000US47147,25713,311,Robertson County, Tennessee
+0500000US47149,111676,873,Rutherford County, Tennessee
+0500000US47151,8664,256,Scott County, Tennessee
+0500000US47153,5528,193,Sequatchie County, Tennessee
+0500000US47155,37210,767,Sevier County, Tennessee
+0500000US47157,351194,1718,Shelby County, Tennessee
+0500000US47159,7603,183,Smith County, Tennessee
+0500000US47161,5178,272,Stewart County, Tennessee
+0500000US47163,66511,670,Sullivan County, Tennessee
+0500000US47165,67089,633,Sumner County, Tennessee
+0500000US47167,21452,378,Tipton County, Tennessee
+0500000US47169,3189,210,Trousdale County, Tennessee
+0500000US47171,7658,274,Unicoi County, Tennessee
+0500000US47173,7405,297,Union County, Tennessee
+0500000US47175,2141,142,Van Buren County, Tennessee
+0500000US47177,15727,380,Warren County, Tennessee
+0500000US47179,53859,710,Washington County, Tennessee
+0500000US47181,5764,290,Wayne County, Tennessee
+0500000US47183,13640,423,Weakley County, Tennessee
+0500000US47185,10048,347,White County, Tennessee
+0500000US47187,77855,529,Williamson County, Tennessee
+0500000US47189,49664,618,Wilson County, Tennessee
+0500000US48001,16677,414,Anderson County, Texas
+0500000US48003,5573,191,Andrews County, Texas
+0500000US48005,31035,619,Angelina County, Texas
+0500000US48007,9548,501,Aransas County, Texas
+0500000US48009,3452,114,Archer County, Texas
+0500000US48011,694,56,Armstrong County, Texas
+0500000US48013,15546,421,Atascosa County, Texas
+0500000US48015,11301,306,Austin County, Texas
+0500000US48017,2054,225,Bailey County, Texas
+0500000US48019,8399,340,Bandera County, Texas
+0500000US48021,25571,628,Bastrop County, Texas
+0500000US48023,1530,112,Baylor County, Texas
+0500000US48025,8269,421,Bee County, Texas
+0500000US48027,122689,1242,Bell County, Texas
+0500000US48029,636245,1930,Bexar County, Texas
+0500000US48031,4343,209,Blanco County, Texas
+0500000US48033,227,47,Borden County, Texas
+0500000US48035,7211,256,Bosque County, Texas
+0500000US48037,34076,629,Bowie County, Texas
+0500000US48039,121523,1201,Brazoria County, Texas
+0500000US48041,79412,1057,Brazos County, Texas
+0500000US48043,4088,253,Brewster County, Texas
+0500000US48045,602,55,Briscoe County, Texas
+0500000US48047,2120,231,Brooks County, Texas
+0500000US48049,14409,380,Brown County, Texas
+0500000US48051,6810,264,Burleson County, Texas
+0500000US48053,16743,618,Burnet County, Texas
+0500000US48055,13460,350,Caldwell County, Texas
+0500000US48057,7582,371,Calhoun County, Texas
+0500000US48059,5367,196,Callahan County, Texas
+0500000US48061,124605,1054,Cameron County, Texas
+0500000US48063,4605,201,Camp County, Texas
+0500000US48065,2288,103,Carson County, Texas
+0500000US48067,11934,328,Cass County, Texas
+0500000US48069,2532,143,Castro County, Texas
+0500000US48071,14069,300,Chambers County, Texas
+0500000US48073,18138,388,Cherokee County, Texas
+0500000US48075,2407,193,Childress County, Texas
+0500000US48077,4105,184,Clay County, Texas
+0500000US48079,998,67,Cochran County, Texas
+0500000US48081,1644,96,Coke County, Texas
+0500000US48083,3423,194,Coleman County, Texas
+0500000US48085,341163,1816,Collin County, Texas
+0500000US48087,1035,111,Collingsworth County, Texas
+0500000US48089,7450,374,Colorado County, Texas
+0500000US48091,51367,693,Comal County, Texas
+0500000US48093,5487,217,Comanche County, Texas
+0500000US48095,912,145,Concho County, Texas
+0500000US48097,15351,258,Cooke County, Texas
+0500000US48099,22322,573,Coryell County, Texas
+0500000US48101,707,102,Cottle County, Texas
+0500000US48103,1421,86,Crane County, Texas
+0500000US48105,1354,153,Crockett County, Texas
+0500000US48107,2061,124,Crosby County, Texas
+0500000US48109,580,110,Culberson County, Texas
+0500000US48111,2364,198,Dallam County, Texas
+0500000US48113,928341,2073,Dallas County, Texas
+0500000US48115,4322,203,Dawson County, Texas
+0500000US48117,6145,168,Deaf Smith County, Texas
+0500000US48119,1999,111,Delta County, Texas
+0500000US48121,290229,1430,Denton County, Texas
+0500000US48123,7048,207,DeWitt County, Texas
+0500000US48125,845,62,Dickens County, Texas
+0500000US48127,3148,210,Dimmit County, Texas
+0500000US48129,1335,83,Donley County, Texas
+0500000US48131,3511,175,Duval County, Texas
+0500000US48133,6492,355,Eastland County, Texas
+0500000US48135,52530,593,Ector County, Texas
+0500000US48137,789,137,Edwards County, Texas
+0500000US48139,57307,535,Ellis County, Texas
+0500000US48141,268310,1506,El Paso County, Texas
+0500000US48143,13595,513,Erath County, Texas
+0500000US48145,5199,231,Falls County, Texas
+0500000US48147,12453,291,Fannin County, Texas
+0500000US48149,9135,339,Fayette County, Texas
+0500000US48151,1601,131,Fisher County, Texas
+0500000US48153,2271,110,Floyd County, Texas
+0500000US48155,533,76,Foard County, Texas
+0500000US48157,237883,1372,Fort Bend County, Texas
+0500000US48159,3965,263,Franklin County, Texas
+0500000US48161,6758,376,Freestone County, Texas
+0500000US48163,4542,324,Frio County, Texas
+0500000US48165,5812,171,Gaines County, Texas
+0500000US48167,121438,1089,Galveston County, Texas
+0500000US48169,1543,136,Garza County, Texas
+0500000US48171,10694,372,Gillespie County, Texas
+0500000US48173,403,63,Glasscock County, Texas
+0500000US48175,2727,149,Goliad County, Texas
+0500000US48177,7364,218,Gonzales County, Texas
+0500000US48179,7884,301,Gray County, Texas
+0500000US48181,48454,614,Grayson County, Texas
+0500000US48183,45460,706,Gregg County, Texas
+0500000US48185,9011,334,Grimes County, Texas
+0500000US48187,54110,536,Guadalupe County, Texas
+0500000US48189,10933,308,Hale County, Texas
+0500000US48191,1267,85,Hall County, Texas
+0500000US48193,2989,244,Hamilton County, Texas
+0500000US48195,1838,130,Hansford County, Texas
+0500000US48197,1596,93,Hardeman County, Texas
+0500000US48199,20626,458,Hardin County, Texas
+0500000US48201,1605368,4547,Harris County, Texas
+0500000US48203,23292,523,Harrison County, Texas
+0500000US48205,1678,121,Hartley County, Texas
+0500000US48207,2146,146,Haskell County, Texas
+0500000US48209,73437,750,Hays County, Texas
+0500000US48211,1298,85,Hemphill County, Texas
+0500000US48213,30757,729,Henderson County, Texas
+0500000US48215,238345,1586,Hidalgo County, Texas
+0500000US48217,12992,297,Hill County, Texas
+0500000US48219,7997,229,Hockley County, Texas
+0500000US48221,22152,465,Hood County, Texas
+0500000US48223,13424,298,Hopkins County, Texas
+0500000US48225,8252,353,Houston County, Texas
+0500000US48227,11064,306,Howard County, Texas
+0500000US48229,978,104,Hudspeth County, Texas
+0500000US48231,33189,564,Hunt County, Texas
+0500000US48233,6929,328,Hutchinson County, Texas
+0500000US48235,682,68,Irion County, Texas
+0500000US48237,3168,166,Jack County, Texas
+0500000US48239,4917,263,Jackson County, Texas
+0500000US48241,12936,414,Jasper County, Texas
+0500000US48243,1054,150,Jeff Davis County, Texas
+0500000US48245,92988,1004,Jefferson County, Texas
+0500000US48247,1626,200,Jim Hogg County, Texas
+0500000US48249,12987,374,Jim Wells County, Texas
+0500000US48251,57310,619,Johnson County, Texas
+0500000US48253,5696,358,Jones County, Texas
+0500000US48255,4282,249,Karnes County, Texas
+0500000US48257,38015,526,Kaufman County, Texas
+0500000US48259,14253,365,Kendall County, Texas
+0500000US48261,197,64,Kenedy County, Texas
+0500000US48263,273,44,Kent County, Texas
+0500000US48265,21403,430,Kerr County, Texas
+0500000US48267,1783,140,Kimble County, Texas
+0500000US48269,77,24,King County, Texas
+0500000US48271,1337,210,Kinney County, Texas
+0500000US48273,10955,396,Kleberg County, Texas
+0500000US48275,1375,86,Knox County, Texas
+0500000US48277,19793,418,Lamar County, Texas
+0500000US48279,4728,167,Lamb County, Texas
+0500000US48281,7807,251,Lampasas County, Texas
+0500000US48283,2269,170,La Salle County, Texas
+0500000US48285,7826,260,Lavaca County, Texas
+0500000US48287,6036,260,Lee County, Texas
+0500000US48289,6443,324,Leon County, Texas
+0500000US48291,26873,555,Liberty County, Texas
+0500000US48293,8377,208,Limestone County, Texas
+0500000US48295,1192,100,Lipscomb County, Texas
+0500000US48297,3752,315,Live Oak County, Texas
+0500000US48299,8678,435,Llano County, Texas
+0500000US48301,30,13,Loving County, Texas
+0500000US48303,113488,1153,Lubbock County, Texas
+0500000US48305,2154,106,Lynn County, Texas
+0500000US48307,3143,218,McCulloch County, Texas
+0500000US48309,90054,848,McLennan County, Texas
+0500000US48311,270,60,McMullen County, Texas
+0500000US48313,4269,251,Madison County, Texas
+0500000US48315,4715,233,Marion County, Texas
+0500000US48317,1694,105,Martin County, Texas
+0500000US48319,1696,124,Mason County, Texas
+0500000US48321,13848,483,Matagorda County, Texas
+0500000US48323,16286,361,Maverick County, Texas
+0500000US48325,15682,396,Medina County, Texas
+0500000US48327,1014,118,Menard County, Texas
+0500000US48329,56998,638,Midland County, Texas
+0500000US48331,9228,307,Milam County, Texas
+0500000US48333,1790,177,Mills County, Texas
+0500000US48335,2382,257,Mitchell County, Texas
+0500000US48337,7800,287,Montague County, Texas
+0500000US48339,198649,1350,Montgomery County, Texas
+0500000US48341,6733,250,Moore County, Texas
+0500000US48343,5117,171,Morris County, Texas
+0500000US48345,489,55,Motley County, Texas
+0500000US48347,23757,423,Nacogdoches County, Texas
+0500000US48349,17338,422,Navarro County, Texas
+0500000US48351,5315,240,Newton County, Texas
+0500000US48353,5407,240,Nolan County, Texas
+0500000US48355,129451,1120,Nueces County, Texas
+0500000US48357,3483,141,Ochiltree County, Texas
+0500000US48359,594,101,Oldham County, Texas
+0500000US48361,31694,581,Orange County, Texas
+0500000US48363,10255,321,Palo Pinto County, Texas
+0500000US48365,8637,335,Panola County, Texas
+0500000US48367,44263,640,Parker County, Texas
+0500000US48369,3203,124,Parmer County, Texas
+0500000US48371,4656,250,Pecos County, Texas
+0500000US48373,18033,527,Polk County, Texas
+0500000US48375,44380,487,Potter County, Texas
+0500000US48377,2543,188,Presidio County, Texas
+0500000US48379,4330,206,Rains County, Texas
+0500000US48381,49389,608,Randall County, Texas
+0500000US48383,1084,76,Reagan County, Texas
+0500000US48385,1126,156,Real County, Texas
+0500000US48387,4963,231,Red River County, Texas
+0500000US48389,3518,187,Reeves County, Texas
+0500000US48391,2547,148,Refugio County, Texas
+0500000US48393,301,39,Roberts County, Texas
+0500000US48395,6444,213,Robertson County, Texas
+0500000US48397,33032,290,Rockwall County, Texas
+0500000US48399,3896,153,Runnels County, Texas
+0500000US48401,18108,482,Rusk County, Texas
+0500000US48403,4311,319,Sabine County, Texas
+0500000US48405,3451,222,San Augustine County, Texas
+0500000US48407,10043,504,San Jacinto County, Texas
+0500000US48409,22898,508,San Patricio County, Texas
+0500000US48411,2082,165,San Saba County, Texas
+0500000US48413,1075,99,Schleicher County, Texas
+0500000US48415,5941,235,Scurry County, Texas
+0500000US48417,1317,115,Shackelford County, Texas
+0500000US48419,9293,295,Shelby County, Texas
+0500000US48421,1019,67,Sherman County, Texas
+0500000US48423,77678,1005,Smith County, Texas
+0500000US48425,3123,213,Somervell County, Texas
+0500000US48427,16188,351,Starr County, Texas
+0500000US48429,3247,189,Stephens County, Texas
+0500000US48431,458,52,Sterling County, Texas
+0500000US48433,580,62,Stonewall County, Texas
+0500000US48435,1412,167,Sutton County, Texas
+0500000US48437,2505,166,Swisher County, Texas
+0500000US48439,708252,2589,Tarrant County, Texas
+0500000US48441,49868,737,Taylor County, Texas
+0500000US48443,418,84,Terrell County, Texas
+0500000US48445,4061,260,Terry County, Texas
+0500000US48447,668,59,Throckmorton County, Texas
+0500000US48449,10893,257,Titus County, Texas
+0500000US48451,43314,596,Tom Green County, Texas
+0500000US48453,472361,1999,Travis County, Texas
+0500000US48455,6030,284,Trinity County, Texas
+0500000US48457,7100,353,Tyler County, Texas
+0500000US48459,14108,388,Upshur County, Texas
+0500000US48461,1332,100,Upton County, Texas
+0500000US48463,8841,282,Uvalde County, Texas
+0500000US48465,15779,447,Val Verde County, Texas
+0500000US48467,20156,413,Van Zandt County, Texas
+0500000US48469,32255,554,Victoria County, Texas
+0500000US48471,21963,843,Walker County, Texas
+0500000US48473,15171,445,Waller County, Texas
+0500000US48475,3978,167,Ward County, Texas
+0500000US48477,12625,525,Washington County, Texas
+0500000US48479,74789,642,Webb County, Texas
+0500000US48481,15199,287,Wharton County, Texas
+0500000US48483,2183,104,Wheeler County, Texas
+0500000US48485,48356,844,Wichita County, Texas
+0500000US48487,5180,248,Wilbarger County, Texas
+0500000US48489,5782,183,Willacy County, Texas
+0500000US48491,180160,1247,Williamson County, Texas
+0500000US48493,15733,300,Wilson County, Texas
+0500000US48495,2619,121,Winkler County, Texas
+0500000US48497,22369,370,Wise County, Texas
+0500000US48499,16510,475,Wood County, Texas
+0500000US48501,2617,147,Yoakum County, Texas
+0500000US48503,7307,282,Young County, Texas
+0500000US48505,4503,274,Zapata County, Texas
+0500000US48507,3571,175,Zavala County, Texas
+0500000US49001,2282,116,Beaver County, Utah
+0500000US49003,17569,265,Box Elder County, Utah
+0500000US49005,38393,459,Cache County, Utah
+0500000US49007,7829,210,Carbon County, Utah
+0500000US49009,163,44,Daggett County, Utah
+0500000US49011,104551,663,Davis County, Utah
+0500000US49013,6868,149,Duchesne County, Utah
+0500000US49015,3665,138,Emery County, Utah
+0500000US49017,1760,137,Garfield County, Utah
+0500000US49019,4191,245,Grand County, Utah
+0500000US49021,17015,359,Iron County, Utah
+0500000US49023,3464,86,Juab County, Utah
+0500000US49025,2643,206,Kane County, Utah
+0500000US49027,4337,161,Millard County, Utah
+0500000US49029,3365,87,Morgan County, Utah
+0500000US49031,532,51,Piute County, Utah
+0500000US49033,635,91,Rich County, Utah
+0500000US49035,374820,1371,Salt Lake County, Utah
+0500000US49037,4311,174,San Juan County, Utah
+0500000US49039,8643,285,Sanpete County, Utah
+0500000US49041,7364,177,Sevier County, Utah
+0500000US49043,14220,361,Summit County, Utah
+0500000US49045,20478,283,Tooele County, Utah
+0500000US49047,10569,381,Uintah County, Utah
+0500000US49049,165991,821,Utah County, Utah
+0500000US49051,9879,318,Wasatch County, Utah
+0500000US49053,57144,747,Washington County, Utah
+0500000US49055,1000,88,Wayne County, Utah
+0500000US49057,83632,679,Weber County, Utah
+0500000US50001,14584,296,Addison County, Vermont
+0500000US50003,14581,356,Bennington County, Vermont
+0500000US50005,12434,268,Caledonia County, Vermont
+0500000US50007,66160,541,Chittenden County, Vermont
+0500000US50009,2740,124,Essex County, Vermont
+0500000US50011,18563,380,Franklin County, Vermont
+0500000US50013,2956,120,Grand Isle County, Vermont
+0500000US50015,10546,361,Lamoille County, Vermont
+0500000US50017,12279,251,Orange County, Vermont
+0500000US50019,11779,251,Orleans County, Vermont
+0500000US50021,25338,434,Rutland County, Vermont
+0500000US50023,24828,359,Washington County, Vermont
+0500000US50025,18943,419,Windham County, Vermont
+0500000US50027,24298,517,Windsor County, Vermont
+0500000US51001,13438,530,Accomack County, Virginia
+0500000US51003,41496,632,Albemarle County, Virginia
+0500000US51005,6600,206,Alleghany County, Virginia
+0500000US51007,4954,198,Amelia County, Virginia
+0500000US51009,12160,344,Amherst County, Virginia
+0500000US51011,6091,218,Appomattox County, Virginia
+0500000US51013,107032,813,Arlington County, Virginia
+0500000US51015,29539,529,Augusta County, Virginia
+0500000US51017,1801,236,Bath County, Virginia
+0500000US51019,31317,515,Bedford County, Virginia
+0500000US51021,2367,191,Bland County, Virginia
+0500000US51023,13264,283,Botetourt County, Virginia
+0500000US51025,6037,257,Brunswick County, Virginia
+0500000US51027,8569,372,Buchanan County, Virginia
+0500000US51029,5826,249,Buckingham County, Virginia
+0500000US51031,23071,356,Campbell County, Virginia
+0500000US51033,10946,475,Caroline County, Virginia
+0500000US51035,12357,415,Carroll County, Virginia
+0500000US51036,2896,93,Charles City County, Virginia
+0500000US51037,4661,237,Charlotte County, Virginia
+0500000US51041,124971,690,Chesterfield County, Virginia
+0500000US51043,5612,173,Clarke County, Virginia
+0500000US51045,2297,177,Craig County, Virginia
+0500000US51047,17071,328,Culpeper County, Virginia
+0500000US51049,3975,176,Cumberland County, Virginia
+0500000US51051,5778,237,Dickenson County, Virginia
+0500000US51053,10401,307,Dinwiddie County, Virginia
+0500000US51057,4555,206,Essex County, Virginia
+0500000US51059,396501,1351,Fairfax County, Virginia
+0500000US51061,24562,339,Fauquier County, Virginia
+0500000US51063,6493,248,Floyd County, Virginia
+0500000US51065,9923,215,Fluvanna County, Virginia
+0500000US51067,22997,552,Franklin County, Virginia
+0500000US51069,31503,418,Frederick County, Virginia
+0500000US51071,6910,238,Giles County, Virginia
+0500000US51073,14786,360,Gloucester County, Virginia
+0500000US51075,8506,276,Goochland County, Virginia
+0500000US51077,6498,458,Grayson County, Virginia
+0500000US51079,7548,206,Greene County, Virginia
+0500000US51081,3647,184,Greensville County, Virginia
+0500000US51083,14158,448,Halifax County, Virginia
+0500000US51085,38987,377,Hanover County, Virginia
+0500000US51087,128464,906,Henrico County, Virginia
+0500000US51089,21218,589,Henry County, Virginia
+0500000US51091,1078,76,Highland County, Virginia
+0500000US51093,14587,243,Isle of Wight County, Virginia
+0500000US51095,28920,510,James City County, Virginia
+0500000US51097,2707,168,King and Queen County, Virginia
+0500000US51099,9202,246,King George County, Virginia
+0500000US51101,6078,227,King William County, Virginia
+0500000US51103,5062,250,Lancaster County, Virginia
+0500000US51105,9149,357,Lee County, Virginia
+0500000US51107,128637,607,Loudoun County, Virginia
+0500000US51109,13871,411,Louisa County, Virginia
+0500000US51111,4293,228,Lunenburg County, Virginia
+0500000US51113,4949,234,Madison County, Virginia
+0500000US51115,3920,343,Mathews County, Virginia
+0500000US51117,12075,389,Mecklenburg County, Virginia
+0500000US51119,4603,263,Middlesex County, Virginia
+0500000US51121,35685,649,Montgomery County, Virginia
+0500000US51125,6419,310,Nelson County, Virginia
+0500000US51127,7961,227,New Kent County, Virginia
+0500000US51131,5148,266,Northampton County, Virginia
+0500000US51133,5584,312,Northumberland County, Virginia
+0500000US51135,5446,280,Nottoway County, Virginia
+0500000US51137,13679,352,Orange County, Virginia
+0500000US51139,9286,308,Page County, Virginia
+0500000US51141,7755,321,Patrick County, Virginia
+0500000US51143,26267,513,Pittsylvania County, Virginia
+0500000US51145,10265,261,Powhatan County, Virginia
+0500000US51147,7185,420,Prince Edward County, Virginia
+0500000US51149,11507,282,Prince George County, Virginia
+0500000US51153,142000,667,Prince William County, Virginia
+0500000US51155,14533,338,Pulaski County, Virginia
+0500000US51157,2913,156,Rappahannock County, Virginia
+0500000US51159,3069,188,Richmond County, Virginia
+0500000US51161,38222,465,Roanoke County, Virginia
+0500000US51163,9248,361,Rockbridge County, Virginia
+0500000US51165,30994,386,Rockingham County, Virginia
+0500000US51167,10812,352,Russell County, Virginia
+0500000US51169,8773,288,Scott County, Virginia
+0500000US51171,17402,408,Shenandoah County, Virginia
+0500000US51173,12686,340,Smyth County, Virginia
+0500000US51175,6562,221,Southampton County, Virginia
+0500000US51177,44436,389,Spotsylvania County, Virginia
+0500000US51179,47075,466,Stafford County, Virginia
+0500000US51181,2730,146,Surry County, Virginia
+0500000US51183,3794,215,Sussex County, Virginia
+0500000US51185,16531,426,Tazewell County, Virginia
+0500000US51187,14651,303,Warren County, Virginia
+0500000US51191,22321,379,Washington County, Virginia
+0500000US51193,7923,365,Westmoreland County, Virginia
+0500000US51195,14925,399,Wise County, Virginia
+0500000US51197,11983,345,Wythe County, Virginia
+0500000US51199,25103,399,York County, Virginia
+0500000US51510,70598,558,Alexandria city, Virginia
+0500000US51520,7334,291,Bristol city, Virginia
+0500000US51530,2517,155,Buena Vista city, Virginia
+0500000US51540,18617,327,Charlottesville city, Virginia
+0500000US51550,84849,815,Chesapeake city, Virginia
+0500000US51570,7036,183,Colonial Heights city, Virginia
+0500000US51580,2384,150,Covington city, Virginia
+0500000US51590,18293,480,Danville city, Virginia
+0500000US51595,2086,174,Emporia city, Virginia
+0500000US51600,8577,168,Fairfax city, Virginia
+0500000US51610,5493,165,Falls Church city, Virginia
+0500000US51620,3522,148,Franklin city, Virginia
+0500000US51630,10762,284,Fredericksburg city, Virginia
+0500000US51640,2663,191,Galax city, Virginia
+0500000US51650,54050,656,Hampton city, Virginia
+0500000US51660,16723,380,Harrisonburg city, Virginia
+0500000US51670,9224,287,Hopewell city, Virginia
+0500000US51678,2158,278,Lexington city, Virginia
+0500000US51680,28273,618,Lynchburg city, Virginia
+0500000US51683,12898,238,Manassas city, Virginia
+0500000US51685,4641,143,Manassas Park city, Virginia
+0500000US51690,5532,268,Martinsville city, Virginia
+0500000US51700,69835,817,Newport News city, Virginia
+0500000US51710,88353,959,Norfolk city, Virginia
+0500000US51720,1628,155,Norton city, Virginia
+0500000US51730,13165,351,Petersburg city, Virginia
+0500000US51735,4593,113,Poquoson city, Virginia
+0500000US51740,36370,457,Portsmouth city, Virginia
+0500000US51750,5573,366,Radford city, Virginia
+0500000US51760,90301,863,Richmond city, Virginia
+0500000US51770,41740,659,Roanoke city, Virginia
+0500000US51775,9912,280,Salem city, Virginia
+0500000US51790,10597,319,Staunton city, Virginia
+0500000US51800,33774,365,Suffolk city, Virginia
+0500000US51810,170798,1061,Virginia Beach city, Virginia
+0500000US51820,9193,273,Waynesboro city, Virginia
+0500000US51830,4706,268,Williamsburg city, Virginia
+0500000US51840,10490,354,Winchester city, Virginia
+0500000US53001,5973,159,Adams County, Washington
+0500000US53003,9101,231,Asotin County, Washington
+0500000US53005,72121,607,Benton County, Washington
+0500000US53007,28384,668,Chelan County, Washington
+0500000US53009,32958,517,Clallam County, Washington
+0500000US53011,174661,837,Clark County, Washington
+0500000US53013,1795,99,Columbia County, Washington
+0500000US53015,41952,474,Cowlitz County, Washington
+0500000US53017,15263,249,Douglas County, Washington
+0500000US53019,3060,164,Ferry County, Washington
+0500000US53021,26723,310,Franklin County, Washington
+0500000US53023,984,72,Garfield County, Washington
+0500000US53025,30818,612,Grant County, Washington
+0500000US53027,28722,648,Grays Harbor County, Washington
+0500000US53029,34768,566,Island County, Washington
+0500000US53031,14705,400,Jefferson County, Washington
+0500000US53033,882028,2586,King County, Washington
+0500000US53035,103913,825,Kitsap County, Washington
+0500000US53037,18347,397,Kittitas County, Washington
+0500000US53039,8877,295,Klickitat County, Washington
+0500000US53041,30618,494,Lewis County, Washington
+0500000US53043,4525,144,Lincoln County, Washington
+0500000US53045,24278,629,Mason County, Washington
+0500000US53047,17675,435,Okanogan County, Washington
+0500000US53049,9279,377,Pacific County, Washington
+0500000US53051,5727,266,Pend Oreille County, Washington
+0500000US53053,323296,1667,Pierce County, Washington
+0500000US53055,8252,186,San Juan County, Washington
+0500000US53057,48493,463,Skagit County, Washington
+0500000US53059,4816,146,Skamania County, Washington
+0500000US53061,293823,1169,Snohomish County, Washington
+0500000US53063,202811,1196,Spokane County, Washington
+0500000US53065,17554,344,Stevens County, Washington
+0500000US53067,109983,744,Thurston County, Washington
+0500000US53069,1897,107,Wahkiakum County, Washington
+0500000US53071,22646,379,Walla Walla County, Washington
+0500000US53073,86523,772,Whatcom County, Washington
+0500000US53075,17999,545,Whitman County, Washington
+0500000US53077,83048,606,Yakima County, Washington
+0500000US54001,6324,223,Barbour County, West Virginia
+0500000US54003,44221,536,Berkeley County, West Virginia
+0500000US54005,8932,255,Boone County, West Virginia
+0500000US54007,5624,279,Braxton County, West Virginia
+0500000US54009,9805,218,Brooke County, West Virginia
+0500000US54011,39064,499,Cabell County, West Virginia
+0500000US54013,2826,183,Calhoun County, West Virginia
+0500000US54015,3274,218,Clay County, West Virginia
+0500000US54017,2685,184,Doddridge County, West Virginia
+0500000US54019,17441,340,Fayette County, West Virginia
+0500000US54021,2587,165,Gilmer County, West Virginia
+0500000US54023,4607,223,Grant County, West Virginia
+0500000US54025,15188,456,Greenbrier County, West Virginia
+0500000US54027,9288,444,Hampshire County, West Virginia
+0500000US54029,12678,300,Hancock County, West Virginia
+0500000US54031,5674,269,Hardy County, West Virginia
+0500000US54033,27098,372,Harrison County, West Virginia
+0500000US54035,11334,325,Jackson County, West Virginia
+0500000US54037,20891,328,Jefferson County, West Virginia
+0500000US54039,79070,958,Kanawha County, West Virginia
+0500000US54041,6574,208,Lewis County, West Virginia
+0500000US54043,8208,287,Lincoln County, West Virginia
+0500000US54045,13816,423,Logan County, West Virginia
+0500000US54047,7607,337,McDowell County, West Virginia
+0500000US54049,22926,342,Marion County, West Virginia
+0500000US54051,12308,352,Marshall County, West Virginia
+0500000US54053,11034,294,Mason County, West Virginia
+0500000US54055,25216,486,Mercer County, West Virginia
+0500000US54057,10916,329,Mineral County, West Virginia
+0500000US54059,10501,256,Mingo County, West Virginia
+0500000US54061,39466,621,Monongalia County, West Virginia
+0500000US54063,5718,241,Monroe County, West Virginia
+0500000US54065,7185,280,Morgan County, West Virginia
+0500000US54067,10069,336,Nicholas County, West Virginia
+0500000US54069,17193,398,Ohio County, West Virginia
+0500000US54071,3174,170,Pendleton County, West Virginia
+0500000US54073,2835,101,Pleasants County, West Virginia
+0500000US54075,3530,199,Pocahontas County, West Virginia
+0500000US54077,12429,321,Preston County, West Virginia
+0500000US54079,21613,386,Putnam County, West Virginia
+0500000US54081,31203,575,Raleigh County, West Virginia
+0500000US54083,11135,300,Randolph County, West Virginia
+0500000US54085,4049,212,Ritchie County, West Virginia
+0500000US54087,5562,197,Roane County, West Virginia
+0500000US54089,5566,328,Summers County, West Virginia
+0500000US54091,6614,226,Taylor County, West Virginia
+0500000US54093,3142,187,Tucker County, West Virginia
+0500000US54095,3207,172,Tyler County, West Virginia
+0500000US54097,9713,299,Upshur County, West Virginia
+0500000US54099,15124,489,Wayne County, West Virginia
+0500000US54101,3781,207,Webster County, West Virginia
+0500000US54103,5762,235,Wetzel County, West Virginia
+0500000US54105,2505,139,Wirt County, West Virginia
+0500000US54107,35488,545,Wood County, West Virginia
+0500000US54109,8805,311,Wyoming County, West Virginia
+0500000US55001,9062,228,Adams County, Wisconsin
+0500000US55003,6565,186,Ashland County, Wisconsin
+0500000US55005,18907,326,Barron County, Wisconsin
+0500000US55007,7057,169,Bayfield County, Wisconsin
+0500000US55009,105271,672,Brown County, Wisconsin
+0500000US55011,5772,128,Buffalo County, Wisconsin
+0500000US55013,7305,308,Burnett County, Wisconsin
+0500000US55015,19807,198,Calumet County, Wisconsin
+0500000US55017,25601,329,Chippewa County, Wisconsin
+0500000US55019,12791,181,Clark County, Wisconsin
+0500000US55021,24112,281,Columbia County, Wisconsin
+0500000US55023,6654,176,Crawford County, Wisconsin
+0500000US55025,222929,861,Dane County, Wisconsin
+0500000US55027,34980,351,Dodge County, Wisconsin
+0500000US55029,13191,310,Door County, Wisconsin
+0500000US55031,19011,293,Douglas County, Wisconsin
+0500000US55033,16859,324,Dunn County, Wisconsin
+0500000US55035,40981,500,Eau Claire County, Wisconsin
+0500000US55037,1948,87,Florence County, Wisconsin
+0500000US55039,41542,505,Fond du Lac County, Wisconsin
+0500000US55041,4008,146,Forest County, Wisconsin
+0500000US55043,19583,272,Grant County, Wisconsin
+0500000US55045,15047,206,Green County, Wisconsin
+0500000US55047,7979,189,Green Lake County, Wisconsin
+0500000US55049,9850,181,Iowa County, Wisconsin
+0500000US55051,2898,159,Iron County, Wisconsin
+0500000US55053,8199,153,Jackson County, Wisconsin
+0500000US55055,32965,424,Jefferson County, Wisconsin
+0500000US55057,10752,281,Juneau County, Wisconsin
+0500000US55059,64111,672,Kenosha County, Wisconsin
+0500000US55061,8341,188,Kewaunee County, Wisconsin
+0500000US55063,47518,379,La Crosse County, Wisconsin
+0500000US55065,6722,111,Lafayette County, Wisconsin
+0500000US55067,8612,216,Langlade County, Wisconsin
+0500000US55069,12625,280,Lincoln County, Wisconsin
+0500000US55071,34563,366,Manitowoc County, Wisconsin
+0500000US55073,55466,457,Marathon County, Wisconsin
+0500000US55075,18473,347,Marinette County, Wisconsin
+0500000US55077,6648,138,Marquette County, Wisconsin
+0500000US55078,1408,102,Menominee County, Wisconsin
+0500000US55079,382175,1549,Milwaukee County, Wisconsin
+0500000US55081,17915,264,Monroe County, Wisconsin
+0500000US55083,16036,178,Oconto County, Wisconsin
+0500000US55085,15421,406,Oneida County, Wisconsin
+0500000US55087,73648,547,Outagamie County, Wisconsin
+0500000US55089,35807,410,Ozaukee County, Wisconsin
+0500000US55091,3070,96,Pepin County, Wisconsin
+0500000US55093,15593,201,Pierce County, Wisconsin
+0500000US55095,18450,267,Polk County, Wisconsin
+0500000US55097,28675,302,Portage County, Wisconsin
+0500000US55099,6688,683,Price County, Wisconsin
+0500000US55101,76974,544,Racine County, Wisconsin
+0500000US55103,7538,160,Richland County, Wisconsin
+0500000US55105,64739,511,Rock County, Wisconsin
+0500000US55107,6376,121,Rusk County, Wisconsin
+0500000US55109,34182,301,St. Croix County, Wisconsin
+0500000US55111,26222,293,Sauk County, Wisconsin
+0500000US55113,7796,440,Sawyer County, Wisconsin
+0500000US55115,17004,270,Shawano County, Wisconsin
+0500000US55117,47738,382,Sheboygan County, Wisconsin
+0500000US55119,8614,179,Taylor County, Wisconsin
+0500000US55121,12005,153,Trempealeau County, Wisconsin
+0500000US55123,12071,173,Vernon County, Wisconsin
+0500000US55125,10921,362,Vilas County, Wisconsin
+0500000US55127,40874,573,Walworth County, Wisconsin
+0500000US55129,7236,184,Washburn County, Wisconsin
+0500000US55131,54302,466,Washington County, Wisconsin
+0500000US55133,158808,670,Waukesha County, Wisconsin
+0500000US55135,22305,291,Waupaca County, Wisconsin
+0500000US55137,9934,193,Waushara County, Wisconsin
+0500000US55139,70594,408,Winnebago County, Wisconsin
+0500000US55141,32332,380,Wood County, Wisconsin
+0500000US56001,15944,437,Albany County, Wyoming
+0500000US56003,4475,144,Big Horn County, Wyoming
+0500000US56005,17574,381,Campbell County, Wyoming
+0500000US56007,6204,268,Carbon County, Wyoming
+0500000US56009,5378,249,Converse County, Wyoming
+0500000US56011,2919,145,Crook County, Wyoming
+0500000US56013,14907,247,Fremont County, Wyoming
+0500000US56015,5207,203,Goshen County, Wyoming
+0500000US56017,2118,151,Hot Springs County, Wyoming
+0500000US56019,3845,154,Johnson County, Wyoming
+0500000US56021,39683,400,Laramie County, Wyoming
+0500000US56023,6908,328,Lincoln County, Wyoming
+0500000US56025,32799,412,Natrona County, Wyoming
+0500000US56027,964,91,Niobrara County, Wyoming
+0500000US56029,12160,401,Park County, Wyoming
+0500000US56031,4030,230,Platte County, Wyoming
+0500000US56033,13251,339,Sheridan County, Wyoming
+0500000US56035,3340,316,Sublette County, Wyoming
+0500000US56037,15523,453,Sweetwater County, Wyoming
+0500000US56039,9019,472,Teton County, Wyoming
+0500000US56041,7597,285,Uinta County, Wyoming
+0500000US56043,3365,149,Washakie County, Wyoming
+0500000US56045,2891,164,Weston County, Wyoming
+0500000US72001,5771,196,Adjuntas Municipio, Puerto Rico
+0500000US72003,12830,445,Aguada Municipio, Puerto Rico
+0500000US72005,21635,524,Aguadilla Municipio, Puerto Rico
+0500000US72007,8488,319,Aguas Buenas Municipio, Puerto Rico
+0500000US72009,8592,286,Aibonito Municipio, Puerto Rico
+0500000US72011,8848,383,Añasco Municipio, Puerto Rico
+0500000US72013,31910,668,Arecibo Municipio, Puerto Rico
+0500000US72015,5908,321,Arroyo Municipio, Puerto Rico
+0500000US72017,7989,322,Barceloneta Municipio, Puerto Rico
+0500000US72019,8720,334,Barranquitas Municipio, Puerto Rico
+0500000US72021,67476,812,Bayamón Municipio, Puerto Rico
+0500000US72023,15473,618,Cabo Rojo Municipio, Puerto Rico
+0500000US72025,48184,579,Caguas Municipio, Puerto Rico
+0500000US72027,11394,370,Camuy Municipio, Puerto Rico
+0500000US72029,14643,383,Canóvanas Municipio, Puerto Rico
+0500000US72031,61909,915,Carolina Municipio, Puerto Rico
+0500000US72033,8706,299,Cataño Municipio, Puerto Rico
+0500000US72035,16213,416,Cayey Municipio, Puerto Rico
+0500000US72037,4224,254,Ceiba Municipio, Puerto Rico
+0500000US72039,5831,228,Ciales Municipio, Puerto Rico
+0500000US72041,12942,346,Cidra Municipio, Puerto Rico
+0500000US72043,13104,371,Coamo Municipio, Puerto Rico
+0500000US72045,5565,275,Comerío Municipio, Puerto Rico
+0500000US72047,10535,422,Corozal Municipio, Puerto Rico
+0500000US72049,482,72,Culebra Municipio, Puerto Rico
+0500000US72051,11602,425,Dorado Municipio, Puerto Rico
+0500000US72053,12298,369,Fajardo Municipio, Puerto Rico
+0500000US72054,4271,235,Florida Municipio, Puerto Rico
+0500000US72055,5515,289,Guánica Municipio, Puerto Rico
+0500000US72057,14022,480,Guayama Municipio, Puerto Rico
+0500000US72059,6510,253,Guayanilla Municipio, Puerto Rico
+0500000US72061,30758,587,Guaynabo Municipio, Puerto Rico
+0500000US72063,14529,376,Gurabo Municipio, Puerto Rico
+0500000US72065,14160,438,Hatillo Municipio, Puerto Rico
+0500000US72067,6255,279,Hormigueros Municipio, Puerto Rico
+0500000US72069,17615,501,Humacao Municipio, Puerto Rico
+0500000US72071,14670,542,Isabela Municipio, Puerto Rico
+0500000US72073,4837,268,Jayuya Municipio, Puerto Rico
+0500000US72075,15408,378,Juana Dí­az Municipio, Puerto Rico
+0500000US72077,12558,445,Juncos Municipio, Puerto Rico
+0500000US72079,7665,414,Lajas Municipio, Puerto Rico
+0500000US72081,9967,324,Lares Municipio, Puerto Rico
+0500000US72083,2708,218,Las Marías Municipio, Puerto Rico
+0500000US72085,12376,399,Las Piedras Municipio, Puerto Rico
+0500000US72087,8508,286,Loíza Municipio, Puerto Rico
+0500000US72089,6582,259,Luquillo Municipio, Puerto Rico
+0500000US72091,14825,455,Manatí Municipio, Puerto Rico
+0500000US72093,1846,158,Maricao Municipio, Puerto Rico
+0500000US72095,3833,216,Maunabo Municipio, Puerto Rico
+0500000US72097,29682,681,Mayagüez Municipio, Puerto Rico
+0500000US72099,13374,384,Moca Municipio, Puerto Rico
+0500000US72101,9645,326,Morovis Municipio, Puerto Rico
+0500000US72103,8058,446,Naguabo Municipio, Puerto Rico
+0500000US72105,8424,357,Naranjito Municipio, Puerto Rico
+0500000US72107,6759,231,Orocovis Municipio, Puerto Rico
+0500000US72109,6144,304,Patillas Municipio, Puerto Rico
+0500000US72111,6863,284,Peñuelas Municipio, Puerto Rico
+0500000US72113,52042,709,Ponce Municipio, Puerto Rico
+0500000US72115,8083,328,Quebradillas Municipio, Puerto Rico
+0500000US72117,5018,322,Rincón Municipio, Puerto Rico
+0500000US72119,15635,463,Río Grande Municipio, Puerto Rico
+0500000US72121,7061,299,Sabana Grande Municipio, Puerto Rico
+0500000US72123,10036,398,Salinas Municipio, Puerto Rico
+0500000US72125,11722,391,San Germán Municipio, Puerto Rico
+0500000US72127,142699,1447,San Juan Municipio, Puerto Rico
+0500000US72129,13772,381,San Lorenzo Municipio, Puerto Rico
+0500000US72131,13313,410,San Sebastián Municipio, Puerto Rico
+0500000US72133,7367,380,Santa Isabel Municipio, Puerto Rico
+0500000US72135,22138,482,Toa Alta Municipio, Puerto Rico
+0500000US72137,27400,488,Toa Baja Municipio, Puerto Rico
+0500000US72139,23800,500,Trujillo Alto Municipio, Puerto Rico
+0500000US72141,9593,341,Utuado Municipio, Puerto Rico
+0500000US72143,11918,486,Vega Alta Municipio, Puerto Rico
+0500000US72145,18721,486,Vega Baja Municipio, Puerto Rico
+0500000US72147,2258,248,Vieques Municipio, Puerto Rico
+0500000US72149,7908,255,Villalba Municipio, Puerto Rico
+0500000US72151,11541,389,Yabucoa Municipio, Puerto Rico
+0500000US72153,10990,429,Yauco Municipio, Puerto Rico
